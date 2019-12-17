@@ -5,4 +5,5 @@
 * [Control parental](control-parental.md)
 * [Seguridad](seguridad.md)
 * [Redes](redes.md)
+* [¿Problemas? ¿Qué hago?](problemas-que-hago.md)
 

@@ -6,5 +6,6 @@
 * [Seguridad](seguridad.md)
 * [Redes](redes.md)
   * [Estructura de una red](redes/estructura-de-una-red.md)
+  * [Resolución problemas pequeños](redes/resolucion-problemas-pequenos.md)
 * [¿Problemas? ¿Qué hago?](problemas-que-hago.md)
 

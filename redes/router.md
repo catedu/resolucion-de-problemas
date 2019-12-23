@@ -57,7 +57,7 @@ Para acceder se pide un usuario y contraseña
 ![](/assets/2019-12-23 09_45_14-Adobe Flash Player 11.png)
 *Fuente Movistar manual usuario*
 
->Es curioso saber que el router es siempre ignorado como elemento crítico de seguridad, esto ha provocado muchos problemas. Una vez en una PIME de un amigo mio, se le infectaba cualquier PC que se conectaba en la red LAN de su pequeña oficina. Al final descubrí que el virus estaba en su router pues tenía una contraseña de acceso un poco débil: 1234 ¿no crees que algún hacker la conoce? fue cambiarla y actualizar el firmware y problema resuelto. ¿Y tú? ¿has cambiado la contraseña de tu router y tienes actualizado su firmware o llevas la misma de fábrica?
+>Es curioso saber que el router es siempre ignorado como elemento crítico de seguridad, esto ha provocado muchos problemas. Una vez en una PYME de un amigo mio, se le infectaba cualquier PC que se conectaba en la red LAN de su pequeña oficina. Al final descubrí que el virus estaba en su router pues tenía una contraseña de acceso un poco débil: 1234 ¿no crees que algún hacker la conoce? fue cambiarla y actualizar el firmware y problema resuelto. ¿Y tú? ¿has cambiado la contraseña de tu router y tienes actualizado su firmware o llevas la misma de fábrica?
 
 Entrar en la aplicación Web nos permite por ejemplo [cambiar la puerta de enlace, las DNS](/redes/ips.md) de tu red
 

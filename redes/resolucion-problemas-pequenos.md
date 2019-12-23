@@ -12,9 +12,10 @@ Este cable está formado por 4 pares de hilos entrelazados, según su calidad (s
 * **Cat 7A** igual pero con una frecuencia de 1000MHz
 * ** Cat 8** compatible con frecuencias 2000 MHz y 40 Gbps.
 
-**En mi centro Internet va lento y tengo un cableado Cat5 ¿tengo que hacer una inversión de cambiar todo el cableado?**
-La respuesta es que seguramente NO ES NECESARIO pues de nada sirve cambiar a una categoría superior y la conexión de Internet es lenta, los switch no soportan esas velocidades y lo más comúm: Las tarjetas de red no aguantan velocidades por encima de los 100Mps. Además van a salir nuevos protocolos que permitirán velocidades de Gbps con cableado Cat5.
-Hemos visto centros educativos que han hecho un importante esfuerzo económico de cambiar todo el cableado y la velocidad seguía siendo pésima, y al final era porque tenían una [Botnet](/seguridad.md). 
+>En mi centro Internet va lento y tengo un cableado Cat5 ¿tengo que hacer una inversión de cambiar todo el cableado?
+
+La respuesta es que seguramente NO ES NECESARIO pues de nada sirve cambiar a una categoría superior si la conexión de Internet es lenta, los switch no soportan esas velocidades y lo más comúm: Las tarjetas de red no aguantan velocidades por encima de los 100Mps. Además van a salir nuevos protocolos que permitirán velocidades de Gbps con cableado Cat5.
+Hemos visto centros educativos que han hecho un importante esfuerzo económico de cambiar todo el cableado y la velocidad seguía siendo pésima. Al final era porque tenían una [Botnet](/seguridad.md). 
 Para estas cuestiones es mejor contar con el asesoramiento del servicio de informática del [Departamento](/problemas-que-hago.md).
 
 ##RJ45
@@ -27,7 +28,7 @@ Es la interfaz que conecta nuestro cableado.
 
 Suele ser un elemento muy castigado si el PC donde está conectado no está fijo o está en una mesa con ruedas luego suele ser un punto crítico ante problemas de conexión:
 
-**NO VA INTERNET** en un equipo concreto conectado por cable.
+>NO VA INTERNET en un equipo concreto conectado por cable.
 
 Primero valoraremos si hay o no conexión entrando en Panel de control - Redes e Internet - Conexiones de red:
 
@@ -35,7 +36,7 @@ Primero valoraremos si hay o no conexión entrando en Panel de control - Redes e
 
 Si encontramos que no hay conexión o no hay tráfico, el problema puede ser que el cable con RJ25 está estropeado. Una comprobación simple de cambiar el cable puede ahorrarnos tiempo.
 
-Para comprobar los cables son útiles los *comprobadores de cable* que por menos de 10€ se pueden comprar en proveedores online Aliexpress o Amazon.
+Si quieres, son útiles los *comprobadores de cable* que por menos de 10€ se pueden comprar en proveedores online Aliexpress o Amazon.
 
 ![](/assets/2019-12-22 09_54_21-Window.png)
 

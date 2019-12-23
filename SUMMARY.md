@@ -6,6 +6,6 @@
 * [Seguridad](seguridad.md)
 * [Redes](redes.md)
   * [Estructura de una red](redes/estructura-de-una-red.md)
-  * [Cableado](redes/resolucion-problemas-pequenos.md)
+  * [Cableado](redes/cableado.md)
 * [¿Problemas? ¿Qué hago?](problemas-que-hago.md)
 

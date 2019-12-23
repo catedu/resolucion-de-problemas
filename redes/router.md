@@ -39,7 +39,7 @@ El principal sospechoso sería el router, hay que comprobar si están encendidos
    
 ##El router es un mini-ordenador
 
-Con un sistema operativo y un software funcionando accesible mediante una aplicación web. 
+Con un sistema operativo llamado **firmware** (software almacenado en los chips de un dispositivo) funcionando y accesible mediante una aplicación web. 
 
 **El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU** no obstante consideramos que en tu formación COFOTAP conozcas de la existencia de esta aplicación por la importancia en la configuración de tu red.
 
@@ -71,7 +71,19 @@ O cambiar el nombre de la red wifi y su contraseña si es un router con wifi.
 
 Es importante cambiar la **SSID** o nombre de red y su **contraseña**, y la encriptación que sea **WPA-PSK (TKIP)** de los que viene por defecto, para evitar accesos no deseados. 
 
->Existen muchas aplicaciones incluso APs que tienen los valores por defecto de los routers inalámbricos y así conectarse de forma pirata. El servicio CAU de tu centro ya ha tenido esta precaución ¿y tú en tu casa? ¿tienes el mismo nombre de red y contraseña en tu router que cuando lo comprastes?
+>Existen muchas aplicaciones incluso APs que tienen los valores por defecto de los routers inalámbricos y así conectarse de forma pirata. El servicio CAU de tu centro ya ha tenido esta precaución ¿y tú en tu casa? ¿tienes el mismo nombre de red y contraseña Wifi en tu router que cuando lo comprastes?
+
+Para actualizar el Firmware hay que descargarlo de la web del fabricante y luego en la aplicación web del router entrar en opciones avanzadas:
+
+![](/assets/2019-12-23 10_19_19-Adobe Flash Player 11.png)
+*Fuente Movistar manual usuario*
+
+Y seleccionar el fichero, teniendo en cuenta que mientras estamos actualizando el Firmware **no se puede desconectar el router** pues si se apaga, se inutiliza de forma permanente el router.
+
+![](/assets/2019-12-23 10_19_30-Adobe Flash Player 11.png)
+*Fuente Movistar manual usuario*
+
+
 
 
 

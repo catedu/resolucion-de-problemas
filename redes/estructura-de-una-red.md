@@ -11,6 +11,6 @@ La red local de tu centro (**LAN** Local Area Network) seguramente tiene esta es
  * Es importante tener unos buenos switch que permita velocidades de Gps y no sean un cuello de botella en la red del centro.
  * Seguramente no sólo existe un switch en tu centro sino varios que en forma de pirámide o cascada van conectando todos los equipos de tu LAN.
 * Las conexiones se realizan por medio de un cableado que dentro son 4 pares de hilos trenzados y en sus extremos conectores RJ25 que lo veremos [más adelante](/redes/cableado.md).
-* En **router** (en la figura en negro) une nuestra red LAN con Internet, lo veremos más adelante
+* En **router** (en la figura en negro) une nuestra red LAN con Internet, lo veremos [más adelante](/redes/router.md)
 
  

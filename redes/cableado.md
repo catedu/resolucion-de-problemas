@@ -12,7 +12,7 @@ Este cable está formado por 4 pares de hilos entrelazados, según su calidad (s
 * **Cat 7A** igual pero con una frecuencia de 1000MHz
 * ** Cat 8** compatible con frecuencias 2000 MHz y 40 Gbps.
 
->En mi centro Internet va lento y tengo un cableado Cat5 ¿tengo que hacer una inversión de cambiar todo el cableado?
+>PROBLEMA : En mi centro Internet va lento y tengo un cableado Cat5 ¿tengo que hacer una inversión de cambiar todo el cableado?
 
 La respuesta es que seguramente NO ES NECESARIO pues de nada sirve cambiar a una categoría superior si la conexión de Internet es lenta, los switch no soportan esas velocidades y lo más comúm: Las tarjetas de red no aguantan velocidades por encima de los 100Mps. Además van a salir nuevos protocolos que permitirán velocidades de Gbps con cableado Cat5.
 Hemos visto centros educativos que han hecho un importante esfuerzo económico de cambiar todo el cableado y la velocidad seguía siendo pésima. Al final era porque tenían una [Botnet](/seguridad.md). 
@@ -28,7 +28,7 @@ Es la interfaz que conecta nuestro cableado.
 
 Suele ser un elemento muy castigado si el PC donde está conectado no está fijo o está en una mesa con ruedas luego suele ser un punto crítico ante problemas de conexión:
 
->NO VA INTERNET en un equipo concreto conectado por cable.
+>PROBLEMA: NO VA INTERNET en un equipo concreto conectado por cable.
 
 Primero valoraremos si hay o no conexión entrando en Panel de control - Redes e Internet - Conexiones de red:
 

@@ -4,8 +4,8 @@ Conecta dos redes diferentes, nuestra LAN con la WAN (Wide Area Network) o sea, 
 
 Puede ser con una línea telefónica ADSL o con fibra óptica y puede tener también ser punto de acceso Wifi como el router doméstico de la figura
 
-![](/assets/home-station-adsl-observa-rta.jpg)
-* Fuente Movistar.es*
+![](/assets/2019-12-23 10_04_07-Adobe Flash Player 11.png)
+*Fuente Movistar manual usuario*
 
 Detrás del router tenemos que saber que tenemos:
 * La conexión de la línea ADSL o de fibra óptica
@@ -59,10 +59,20 @@ Para acceder se pide un usuario y contraseña
 
 >Es curioso saber que el router es siempre ignorado como elemento crítico de seguridad, esto ha provocado muchos problemas. Una vez en una PIME de un amigo mio, se le infectaba cualquier PC que se conectaba en la red LAN de su pequeña oficina. Al final descubrí que el virus estaba en su router pues tenía una contraseña de acceso un poco débil: 1234 ¿no crees que algún hacker la conoce? fue cambiarla y actualizar el firmware y problema resuelto. ¿Y tú? ¿has cambiado la contraseña de tu router y tienes actualizado su firmware o llevas la misma de fábrica?
 
-Entrar en la aplicación Web nos permite por ejemplo cambiar el nombre de la red wifi y su contraseña si es un router con wifi
+Entrar en la aplicación Web nos permite por ejemplo [cambiar la puerta de enlace, las DNS](/redes/ips.md) de tu red
+
+![](/assets/2019-12-23 10_05_48-Adobe Flash Player 11.png)
+*Fuente Movistar manual usuario*
+
+O cambiar el nombre de la red wifi y su contraseña si es un router con wifi.
 
 ![](/assets/2019-12-23 10_00_31-Adobe Flash Player 11.png)
 *Fuente Movistar manual usuario*
+
+Es importante cambiar la **SSID** o nombre de red y su **contraseña**, y la encriptación que sea **WPA-PSK (TKIP)** de los que viene por defecto, para evitar accesos no deseados. 
+
+>Existen muchas aplicaciones incluso APs que tienen los valores por defecto de los routers inalámbricos y así conectarse de forma pirata. El servicio CAU de tu centro ya ha tenido esta precaución ¿y tú en tu casa? ¿tienes el mismo nombre de red y contraseña en tu router que cuando lo comprastes?
+
 
 
 

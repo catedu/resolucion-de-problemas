@@ -19,7 +19,7 @@ Detrás del router tenemos que saber que tenemos:
 
 Es importante saber estos elementos y localizarlos para cualquier problema.
 
->Internet no va en mi centro.
+>PROBLEMA : Internet no va en mi centro.
 
 El principal sospechoso sería el router, hay que comprobar si están encendidos todos los leds del router.
 
@@ -39,11 +39,36 @@ El principal sospechoso sería el router, hay que comprobar si están encendidos
    
 ##El router es un mini-ordenador
 
-Con un sistema operativo y un software funcionando accesible mediante una aplicación web.
+Con un sistema operativo y un software funcionando accesible mediante una aplicación web. 
 
-Para acceder a la aplicación hay que teclear la IP puerta de enlace en un navegador:
+**El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU** no obstante consideramos que en tu formación COFOTAP conozcas de la existencia de esta aplicación por la importancia en la configuración de tu red.
+
+Para acceder a la aplicación hay que teclear [la IP puerta de enlace](/redes/ips.md) en un navegador:
 
 ![](/assets/2019-12-23 09_36_17-Nueva pestaña.png)
+
+y **CADA MODELO DE ROUTER TIENE UNA APLICACION WEB DISTINTA** aquí por ejemplo vamos a enseñar capturas del modelo de router Movistar:
+
+![](/assets/2019-12-23 09_41_42-Adobe Flash Player 11.png)
+*Fuente Movistar manual usuario*
+
+Para acceder se pide un usuario y contraseña
+
+![](/assets/2019-12-23 09_45_14-Adobe Flash Player 11.png)
+*Fuente Movistar manual usuario*
+
+>Es curioso saber que el router es siempre ignorado como elemento crítico de seguridad, esto ha provocado muchos problemas. Una vez en una PIME de un amigo mio, se le infectaba cualquier PC que se conectaba en la red LAN de su pequeña oficina. Al final descubrí que el virus estaba en su router pues tenía una contraseña de acceso un poco débil: 1234 ¿no crees que algún hacker la conoce? fue cambiarla y actualizar el firmware y problema resuelto. ¿Y tú? ¿has cambiado la contraseña de tu router y tienes actualizado su firmware o llevas la misma de fábrica?
+
+Entrar en la aplicación Web nos permite por ejemplo cambiar el nombre de la red wifi y su contraseña si es un router con wifi
+
+![](/assets/2019-12-23 10_00_31-Adobe Flash Player 11.png)
+*Fuente Movistar manual usuario*
+
+
+
+
+
+
 
 
 

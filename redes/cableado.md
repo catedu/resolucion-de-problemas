@@ -18,10 +18,12 @@ La respuesta es que seguramente NO ES NECESARIO pues de nada sirve cambiar a una
 Hemos visto centros educativos que han hecho un importante esfuerzo económico de cambiar todo el cableado y la velocidad seguía siendo pésima. Al final era porque tenían una [Botnet](/seguridad.md). 
 Para estas cuestiones es mejor contar con el asesoramiento del servicio de informática del [Departamento](/problemas-que-hago.md).
 
+No se tienen que hacer cableados muy largos pues la señal se atenúa, aún así el máximo es 100m.
+
 ##RJ45
 Es la interfaz que conecta nuestro cableado.
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/85/Rj45.png)
+![](/assets/2019-12-24 09_31_50-Window.png)
 *Fuente [Wikipedia](https://es.wikipedia.org/wiki/RJ-45)*
 
 **No podemos conectar** dos ordenadores con un cable normal o directo, sino es a través de un Switch o Hub, la razón es que los cables se tienen que *cruzar* es decir el cable de transmisión tiene que ir al de recepción del otro y viceversa. Esto lo hace el Switch o Hub. Hay cables especiales llamados *cruzados* que ya están conectados el RJ45 de forma cruzada y sólo sirven para este propósito.
@@ -45,6 +47,9 @@ Metes los dos extremos y tienen que encenderse las luces en su mismo órden tant
 >PREGUNTA: ¿Qué conexión es mejor la conexión por cable o la conexión por Wifi?
 
 La conexión cableada **siempre** nos va a dar más velocidad, fiabilidad y conexión segura frente a la wifi. La wifi la tenemos que dejar cuando no hay otro remedio (aula con tablets, carro de portátiles, etc...)
+
+##Fibra óptica
+Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes, no hay casi pérdida
 
 
 

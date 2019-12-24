@@ -51,6 +51,8 @@ La conexión cableada **siempre** nos va a dar más velocidad, fiabilidad y cone
 ##Fibra óptica
 Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son fáciles como en el RJ45.
 
+De momento sólo se utiliza de entrada en el router en las localidades donde exista. En la LAN se trabaja con cable trenzado.
+
 
 
 

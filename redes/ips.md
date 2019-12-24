@@ -30,6 +30,16 @@ Dentro de la LAN de tu centro se asignan IPs a cada equipo, cada una es única *
   
   La 127.0.0.1 es una dirección especial que se usa para referirse a uno mismo y la 255.255.255.255 es para referirse a todos.
   
+ #CONFIGURAR LA IP
+   
+Nos vamos a **Inicio - Panel de control - Conexiones de red e Internet - Conexiones de red** y aparecen nuestras conexiones, fija, inalámbrica. Nos vamos a la que queremos configurar con el **botón derecho - Propiedades - Protocolo TPCP/IPv4** 
+
+  ![](/assets/2019-12-24 10_17_13-Window.png)
+  
+ Aquí tenemos varias opciones que tienes que ver detenidamente:
+ 
+ #####IP AUTOMÁTICA
+ Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP al equipo. Esto es posible si en su configuración se ha activado la **DHCP** 
   
   
   

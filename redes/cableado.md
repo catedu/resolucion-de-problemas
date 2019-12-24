@@ -18,7 +18,7 @@ La respuesta es que seguramente NO ES NECESARIO pues de nada sirve cambiar a una
 Hemos visto centros educativos que han hecho un importante esfuerzo económico de cambiar todo el cableado y la velocidad seguía siendo pésima. Al final era porque tenían una [Botnet](/seguridad.md). 
 Para estas cuestiones es mejor contar con el asesoramiento del servicio de informática del [Departamento](/problemas-que-hago.md).
 
-No se tienen que hacer cableados muy largos pues la señal se atenúa, aún así el máximo es 100m.
+No se tienen que hacer cableados muy largos pues la señal se atenúa, cuanto más largo más probabilidad hay que algunos paquetes de información sean erróneos y por lo tanto ralentiza la conexión. El máximo es 100m.
 
 ##RJ45
 Es la interfaz que conecta nuestro cableado.
@@ -49,7 +49,8 @@ Metes los dos extremos y tienen que encenderse las luces en su mismo órden tant
 La conexión cableada **siempre** nos va a dar más velocidad, fiabilidad y conexión segura frente a la wifi. La wifi la tenemos que dejar cuando no hay otro remedio (aula con tablets, carro de portátiles, etc...)
 
 ##Fibra óptica
-Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes, no hay casi pérdida
+Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son fáciles como en el RJ45.
+
 
 
 

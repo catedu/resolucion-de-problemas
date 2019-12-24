@@ -44,6 +44,10 @@ Si quieres, son útiles los *comprobadores de cable* que por menos de 10€ se p
 
 Metes los dos extremos y tienen que encenderse las luces en su mismo órden tanto en un extremo como en el otro 1-1 2-2 3-3 ... 8-8 si hay algún fallo ya podemos desechar ese cable.
 
+En el siguiente vídeo explica cómo puedes hacer tú mismo cableado y en el minuto 5.23 cómo se comprueba con el tester
+
+{% youtube %} https://www.youtube.com/watch?v=heyGMyru06c{% endyoutube %} 
+
 >PREGUNTA: ¿Qué conexión es mejor la conexión por cable o la conexión por Wifi?
 
 La conexión cableada **siempre** nos va a dar más velocidad, fiabilidad y conexión segura frente a la wifi. La wifi la tenemos que dejar cuando no hay otro remedio (aula con tablets, carro de portátiles, etc...)

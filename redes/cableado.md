@@ -55,8 +55,29 @@ La conexión cableada **siempre** nos va a dar más velocidad, fiabilidad y cone
 ##POE
 Los cables POE (Power Over Internet) son cables entrelazados pero están conectados a un Switch que tiene puertos que además de transmitir los datos, transmiten también la alimentación, de tal manera que el dispositivo destino puede alimentarse con sólo llegar el cable entrelazado (es típico en teléfonos IPs, WebCams...)
 
+![](/assets/2019-12-25 09_26_08-Window.png)
+*Fuente Ali-express*
 
+Esto nos facilita la instalación de estos dispositivos pues sólo hay que llevar un cable entrelazado. En los centros que no tenían switch con POE se repartían estos dispositivos para crear un cable POE: *(un mezclador data+power y un separador data+power marca D-Link)* 
+![](/assets/2019-12-25 09_30_37-Window.png)
 
+Y el esquema era el siguiente (donde el Router de la derecha es cualquier dispositivo que por cuestiones físicas no se puede llevar un cable de alimentación):
+
+![](/assets/poe_alimentacion_por_internet.jpg)
+*Fuente https://www.instructables.com/*
+
+Luego si en tu centro ves un AP con esta conexión es porque el cable que sale de la caja es POE:
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ZyXEL_ZyAIR_G-1000_and_D-Link_DWL-P50_20060829_2.jpg/320px-ZyXEL_ZyAIR_G-1000_and_D-Link_DWL-P50_20060829_2.jpg)
+*Fuente Wikipedia*
+
+OJO fíjate que NO SE CONECTA DIRECTAMENTE sino a través del separador D-Link. 
+
+>Hay dispositivos que en la conexión hembra RJ45 pone Data o NonPOE y otros que pone Data+Power o POE en la foto anterior el AP es NonPOE por lo tanto necesita el separador.
+
+**¿Por qué tengo que saber esto?** Porque si conectas un cable POE a un dispositivo no POE **lo puedes estropear** pues estás conectando unos voltios a la tarjeta red que no está preparado. 
+
+>Puedes hacer un desastre si conectas un portátil a un cable POE, o peor todavía: simplemente hacer de manitas en el Switch de conserjería e intercambiar cables en los puertos del Switch, y no te das cuenta que unos son POE y otros NonPOE.
 
 ##Fibra óptica
 Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son fáciles como en el RJ45.

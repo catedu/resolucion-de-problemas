@@ -26,10 +26,13 @@ Nos vamos a **Inicio - Panel de control - Conexiones de red e Internet - Conexio
  Aquí tenemos varias opciones que tienes que ver detenidamente:
  
  #####IP AUTOMÁTICA
- Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP al equipo. Esto es posible si en su configuración se ha activado la **DHCP** 
+ Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP al equipo. Esto es posible si en la configuración del AP, switch o router se ha activado la **DHCP** 
+ 
+ #####IP ESTÁTICA
  
  
- >Si por error hemos configurado manualmente una IP estática al rango DHCP, puede ocurrir que dicha dirección sea asignada dinámicamente a otro PC, provocándose un **conflicto de IP**.
+ 
+ >Si por error hemos configurado manualmente una IP estática al rango DHCP de un router, AP... puede ocurrir que dicha dirección sea asignada dinámicamente a otro PC, provocándose un **conflicto de IP**.
 
 
   

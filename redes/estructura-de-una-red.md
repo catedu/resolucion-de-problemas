@@ -13,6 +13,8 @@ La red local de tu centro (**LAN** Local Area Network) seguramente tiene esta es
 * En **router** (en la figura en negro) une nuestra red LAN con Internet, lo veremos [más adelante](/redes/router.md)
 * Seguramente no sólo existe un switch en tu centro sino varios que en forma de pirámide o cascada van conectando todos los equipos de tu LAN. Cada Switch agrupa a varios equipos de un edificio o de una planta, por lo tanto los switch no separan redes, sino se distribuyen según el espacio físico. En la figura siguiente puedes ver que hay tres switch para tres plantas pero no tiene nada que ver con las tres redes que se han definido en esta estructura : contabilidad, mercadeo e ingeniería. Técnicamente tres redes virtuales **VLAN**.
 
+ Ya de paso puedes ver los símbolos comunes del Router (círculo con cuatro flechas que apuntan al centro) y el de Switch (cuadrado con cuatro flechas paralelas).
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/VLAN.svg/615px-VLAN.svg.png)
 *Fuente [Wikipedia](https://es.m.wikipedia.org/wiki/Archivo:VLAN.svg)*
 

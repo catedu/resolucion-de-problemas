@@ -52,6 +52,12 @@ En el siguiente vídeo explica cómo puedes hacer tú mismo cableado y en el min
 
 La conexión cableada **siempre** nos va a dar más velocidad, fiabilidad y conexión segura frente a la wifi. La wifi la tenemos que dejar cuando no hay otro remedio (aula con tablets, carro de portátiles, etc...)
 
+##POE
+Los cables POE (Power Over Internet) son cables entrelazados pero están conectados a un Switch que tiene puertos que además de transmitir los datos, transmiten también la alimentación, de tal manera que el dispositivo destino puede alimentarse con sólo llegar el cable entrelazado (es típico en teléfonos IPs, WebCams...)
+
+
+
+
 ##Fibra óptica
 Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son fáciles como en el RJ45.
 

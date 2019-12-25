@@ -26,7 +26,7 @@ Dentro de la LAN de tu centro se asignan IPs a cada equipo, cada una es única *
  
   En resumen que un ordenador del centro puede tener la 192.168.1.55 y en *otro centro educativo* puede tener la 192.168.1.55 en otro equipo. Pero no puede haber dos ordenadores de tu centro con la IP 192.168.1.55.
   
-  Conclusión: Las 192.168.x.x donde x son números entre 0 y 255 están [reservadas para uso privado](https://es.wikipedia.org/wiki/Red_privada) interno dentro de las LAN.
+  **Conclusión:** Las 192.168.x.x donde x son números entre 0 y 255 están [reservadas para uso privado](https://es.wikipedia.org/wiki/Red_privada) interno dentro de las LAN. También las 172.16.x.x hasta la 172.31.x.x.
   
   La 127.0.0.1 es una dirección especial que se usa para referirse a uno mismo y la 255.255.255.255 es para referirse a todos.
   

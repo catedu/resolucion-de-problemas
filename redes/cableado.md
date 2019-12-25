@@ -77,7 +77,11 @@ OJO fíjate que NO SE CONECTA DIRECTAMENTE sino a través del separador D-Link.
 
 **¿Por qué tengo que saber esto?** Porque si conectas un cable POE a un dispositivo no POE **lo puedes estropear** pues estás conectando unos voltios a la tarjeta red que no está preparado. 
 
->Puedes hacer un desastre si conectas un portátil a un cable POE, o peor todavía: simplemente hacer de manitas en el Switch de conserjería e intercambiar cables en los puertos del Switch, y no te das cuenta que unos son POE y otros NonPOE.
+>Puedes hacer un desastre si conectas un portátil a un cable POE, o peor todavía: simplemente hacer de manitas en el Switch de conserjería e intercambias cables en los puertos del Switch, y no te das cuenta que unos son POE y otros NonPOE.
+
+Luego ojo con este símbolo:
+
+![](/assets/2019-12-25 10_18_13-Window.png)
 
 ##Fibra óptica
 Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son fáciles como en el RJ45.

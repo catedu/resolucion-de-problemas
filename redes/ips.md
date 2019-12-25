@@ -1,23 +1,10 @@
-#Protocolos
-Digamos que son las reglas del lenguaje de los paquetes de información, hay muchos protocolos, los comunes son:
-
-* **HTTP** es el protocolo de las páginas Web
-* **HTTPS** es el mismo que en anterior pero añadiendo una seguridad de su origen. **Nunca tenemos que navegar en una página web importante por ejemplo un banco o tienda virtual que no sea en su inicio HTTPS** (o el símbolo del candado en el navegador) de lo contrario es una página web falsa o fishing que nos quiere robar las contraseñas.
-* **FTP** es el protocolo para la transferencia de ficheros.
-* **SMTP POP3** el de los correos electrónicos.
-
-Todos estos protocolos utilizan paquetes de información, pero estos a su vez utilizan el protocolo **TCP/IP** 
-
-* **TCP**  (transmision control protocol) se encarga de asegurar que el paquete tenga su contenido correcto.
-* **IP** (Internet protocol) es la dirección del equipo destino. **Todos** los equipos conectados a Internet tienen un número.
- 
 # IP4
 
 Está formado por 4 números cada uno de ellos puede ser desde 0 hasta 255 y el ordenador lo traduce en una secuencia de 8bits
 
 Por ejemplo la IP 192.168.1.55 es realmente 1100000 10101000 00000001 00110111
 
-**NO PUEDE HABER DOS EQUIPOS CON LA MISMA IP** pero hay trampas para saltarse esta regla:
+**NO PUEDE HABER EN EL MUNDO DOS EQUIPOS CON LA MISMA IP** excepto las IP reservadas. Esto provoca que ya quedan pocos IP4 disponibles, por eso se creó el IPv6.
 
 ##IP4 reservadas
 Dentro de la LAN de tu centro se asignan IPs a cada equipo, cada una es única **dentro de la LAN** pero esta información llega al router y el router cambia esa IP por la suya que es única en la WAN de Internet, o sea que la IP del ordenador del centro *no viaja como cabecera por Internet* sino la del router.
@@ -40,6 +27,11 @@ Nos vamos a **Inicio - Panel de control - Conexiones de red e Internet - Conexio
  
  #####IP AUTOMÁTICA
  Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP al equipo. Esto es posible si en su configuración se ha activado la **DHCP** 
+ 
+ 
+ >Si por error hemos configurado manualmente una IP estática al rango DHCP, puede ocurrir que dicha dirección sea asignada dinámicamente a otro PC, provocándose un **conflicto de IP**.
+
+
   
   
   

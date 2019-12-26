@@ -8,7 +8,8 @@
   * [Estructura de una red](redes/estructura-de-una-red.md)
   * [Cableado](redes/cableado.md)
   * [Router](redes/router.md)
+  * [Protocolos](protocolos.md)
   * [IPs](redes/ips.md)
 * [¿Problemas? ¿Qué hago?](problemas-que-hago.md)
-* [Protocolos](protocolos.md)
+
 

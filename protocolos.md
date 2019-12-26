@@ -54,6 +54,10 @@ En configuración de la LAN es donde activaremos el DHCP
 
 Como vemos en la figura se ha activado el DHCP y proporcionará a los equipos IPs desde la 169.254.190.2 hasta la 169.254.190.254 durante 172.800 segundos. También vemos que hay una excepción para la impresora que le dará una IP fija y así la tenemos localizada para poderla instalar en los equipos.
 
+>OJO para que el DHCP funcione, en cada equipo tiene que estar configurado la opción DHCP, esto lo veremos en el [siguiente capítulo.](/redes/ips.md)
+
+Gráficamente la configuración quedaría así:
+
 ![](/assets/2019-12-26 10_09_15-Window.png)
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 

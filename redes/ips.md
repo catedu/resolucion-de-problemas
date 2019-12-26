@@ -26,7 +26,7 @@ Nos vamos a **Inicio - Panel de control - Conexiones de red e Internet - Conexio
  Aquí tenemos varias opciones que tienes que ver detenidamente:
  
  #####IP AUTOMÁTICA
- Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP al equipo. Esto es posible si en la configuración del AP, switch o router se ha activado la **DHCP** 
+Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP al equipo. Esto es posible si en la configuración del AP, switch o router se ha activado la **DHCP** ya lo hemos visto en el [anterior capítulo](/protocolos.md)
  
  #####IP ESTÁTICA
  

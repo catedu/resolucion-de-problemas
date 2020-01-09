@@ -41,8 +41,9 @@ El principal sospechoso sería el router, hay que comprobar si están encendidos
 
 Con un sistema operativo llamado **firmware** (software almacenado en los chips de un dispositivo) funcionando y accesible mediante una aplicación web. 
 
+<hr />
 **El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU** no obstante consideramos que en tu formación COFOTAP conozcas de la existencia de la configuración del router por la importancia que tiene en la LAN de tu centro.
-
+<hr />
 Para acceder a la aplicación hay que teclear [la IP puerta de enlace](/redes/ips.md) en un navegador:
 
 ![](/assets/2019-12-23 09_36_17-Nueva pestaña.png)

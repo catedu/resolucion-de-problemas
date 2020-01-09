@@ -49,7 +49,7 @@ En el siguiente vídeo explica cómo se testea desde el *minuto 6* (pasa del tes
 
 >El mismo vídeo enseña desde el minuto 0 al 6 cómo hacer tú mismo cables RJ45 si eres un friki.
 
-{% youtube %} https://www.youtube.com/watch?v=heyGMyru06c{% endyoutube %} 
+{% youtube %}https://www.youtube.com/watch?v=heyGMyru06c{% endyoutube %}
 
 >PREGUNTA: ¿Se puede comprobar un cable con el tester teniendo el otro extremo conectado a una *"cosa"* (router, switcht, AP, PC...) ?
 
@@ -94,9 +94,3 @@ Luego ojo con este símbolo:
 Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son fáciles como en el RJ45.
 
 De momento sólo se utiliza de entrada en el router en las localidades donde exista. En la LAN se trabaja con cable trenzado.
-
-
-
-
-
-

@@ -90,6 +90,8 @@ Luego ojo con este símbolo:
 
 ![](/assets/2019-12-25 10_18_13-Window.png)
 
+<iframe src="https://giphy.com/embed/14jqVt44KAwNbi" width="480" height="291" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/home-theater-protector-14jqVt44KAwNbi">via GIPHY</a></p>
+
 ##Fibra óptica
 Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son fáciles como en el RJ45.
 

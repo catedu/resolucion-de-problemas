@@ -61,6 +61,7 @@ Para acceder se pide un usuario y contraseña
 
 >Es curioso saber que el router es siempre ignorado como elemento crítico de seguridad, esto ha provocado muchos problemas. Una vez en una PYME de un amigo mio, se le infectaba cualquier PC que se conectaba en la red LAN de su pequeña oficina. Al final descubrí que el virus estaba en su router pues tenía de contraseña : 1234 ¿la conocerán los hackers rusos? fue cambiarla y actualizar el firmware y problema resuelto. ¿Y tú? ¿has cambiado la contraseña de tu router y tienes actualizado su firmware o llevas la misma de fábrica? 🤢
 
+
 Entrar en la aplicación Web nos permite por ejemplo [cambiar la puerta de enlace, las DNS](/redes/ips.md) de tu red
 
 ![](/assets/2019-12-23 10_05_48-Adobe Flash Player 11.png)
@@ -75,7 +76,7 @@ O cambiar el nombre de la red wifi y su contraseña si es un router con wifi.
 
 Es importante cambiar la **SSID** o nombre de red y su **contraseña**, y la encriptación que sea **WPA-PSK (TKIP)** de los que viene por defecto, para evitar accesos no deseados. 
 
->Existen muchas aplicaciones incluso APs que tienen los valores por defecto de los routers inalámbricos y así conectarse de forma pirata a la Wifi del vecino. El servicio CAU de tu centro ya ha tenido esta precaución ¿y tú? ¿en tu casa? ¿tienes el mismo nombre de red y contraseña Wifi en tu router que cuando lo comprastes? 🤢🤢🤢🤢
+>Existen muchas aplicaciones para piratear Wifis que simplemente tienen los valores por defecto de los routers inalámbricos. El servicio CAU de tu centro ya ha tenido esta precaución ¿y tú? ¿en tu casa? ¿tienes el mismo nombre de red y contraseña Wifi en tu router que cuando lo comprastes? 🤢🤢🤢🤢
 
 Para actualizar el Firmware hay que descargarlo de la web del fabricante y luego en la aplicación web del router entrar en opciones avanzadas:
 

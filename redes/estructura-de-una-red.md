@@ -3,6 +3,7 @@
 La red local de tu centro (**LAN** Local Area Network) seguramente tiene esta estructura en estrella o árbol:
 
 ![](/assets/2019-12-21 09_16_52-Window.png)
+
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 
 * Los portátiles tienen una conexión inalámbrica con un **Punto de acceso AP Access Point** actualmente de la marca *Ubiquiti*.

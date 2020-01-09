@@ -24,6 +24,7 @@ No se tienen que hacer cableados muy largos pues la señal se atenúa, cuanto m�
 Es la interfaz que conecta nuestro cableado.
 
 ![](/assets/2019-12-24 09_31_50-Window.png)
+
 *Fuente [Wikipedia](https://es.wikipedia.org/wiki/RJ-45)*
 
 **No podemos conectar** dos ordenadores con un cable normal o directo, sino es a través de un Switch o Hub, la razón es que los cables se tienen que *cruzar* es decir el cable de transmisión tiene que ir al de recepción del otro y viceversa. Esto lo hace el Switch o Hub. Hay cables especiales llamados *cruzados* que ya están conectados el RJ45 de forma cruzada y sólo sirven para este propósito.
@@ -42,15 +43,21 @@ Si quieres, son útiles los *comprobadores de cable* que por menos de 10€ se p
 
 ![](/assets/2019-12-22 09_54_21-Window.png)
 
-Metes los dos extremos y tienen que encenderse las luces en su mismo órden tanto en un extremo como en el otro 1-1 2-2 3-3 ... 8-8 si hay algún fallo ya podemos desechar ese cable.
+Metes los dos extremos (uno *master* que envía la señal y otro *slave* que recoge la seña y lo visualiza en forma de luces) y tienen que encenderse las luces en su mismo órden tanto en un extremo como en el otro 1-1 2-2 3-3 ... 8-8 si hay algún fallo ya podemos desechar ese cable.
 
-En el siguiente vídeo explica cómo puedes hacer tú mismo cableado y en el minuto 5.23 cómo se comprueba con el tester
+En el siguiente vídeo explica cómo se testea desde el *minuto 6* (pasa del tester profesional que hay en el minuto 9)
+
+>El mismo vídeo enseña desde el minuto 0 al 6 cómo hacer tú mismo cables RJ45 si eres un friki.
 
 {% youtube %} https://www.youtube.com/watch?v=heyGMyru06c{% endyoutube %} 
 
+>PREGUNTA: ¿Se puede comprobar un cable con el tester teniendo el otro extremo conectado a una *"cosa"* (router, switcht, AP, PC...) ?
+
+Respuesta: Pues no, pues si introduces el extremo suelto en el *master* del tester que envía la señal, te cargas esa *"cosa"*. En resumen: si tienes que comprobar un cable, asegúrate que tenga los dos extremos desconectados.
+
 >PREGUNTA: ¿Qué conexión es mejor la conexión por cable o la conexión por Wifi?
 
-La conexión cableada **siempre** nos va a dar más velocidad, fiabilidad y conexión segura frente a la wifi. La wifi la tenemos que dejar cuando no hay otro remedio (aula con tablets, carro de portátiles, etc...)
+Respuesta: La conexión cableada **siempre** nos va a dar más velocidad, fiabilidad y conexión segura frente a la wifi. La wifi la tenemos que dejar cuando no hay otro remedio (aula con tablets, carro de portátiles, etc...)
 
 ##POE
 Los cables POE (Power Over Internet) son cables entrelazados pero están conectados a un Switch que tiene puertos que además de transmitir los datos, transmiten también la alimentación, de tal manera que el dispositivo destino puede alimentarse con sólo llegar el cable entrelazado (es típico en teléfonos IPs, WebCams...)

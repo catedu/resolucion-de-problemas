@@ -1,7 +1,7 @@
 #Protocolos
 Digamos que son las reglas del lenguaje de los paquetes de información, hay muchos protocolos, los comunes son:
 
-* **HTTP** es el protocolo de las páginas Web
+* **HTTP** es el protocolo de las páginas Web, [se inventó en el CERN](https://es.wikipedia.org/wiki/Historia_de_la_World_Wide_Web) para publicar información.
 * **HTTPS** es el mismo que en anterior pero añadiendo una seguridad de su origen. **Nunca tenemos que navegar en una página web importante por ejemplo un banco o tienda virtual que no sea en su inicio HTTPS** (o el símbolo del candado en el navegador) de lo contrario es una página web falsa o fishing que nos quiere robar las contraseñas.
 * **FTP** es el protocolo para la transferencia de ficheros.
 * **SMTP POP3** el de los correos electrónicos.
@@ -13,7 +13,7 @@ Todos estos protocolos utilizan paquetes de información, pero estos a su vez ut
 * **TCP**  (transmision control protocol) se encarga de asegurar que el paquete tenga su contenido correcto.
 * **IP** (Internet protocol) es la dirección del equipo destino. **Todos** los equipos conectados a Internet tienen un número.
 
->Cuando se inventó este protocolo fué cuando realmente se inventó Internet ¿sabías que tiene su origen en la guerra fría?.
+>Cuando se inventó este protocolo fue cuando realmente se inventó Internet pues posibilitaba la interconexión entre ordenadores de forma masiva y con libertad ¿sabías que tiene su origen [en la guerra fría](https://es.wikipedia.org/wiki/ARPANET)?.
  
 #DHCP
 
@@ -25,6 +25,7 @@ DHCP, Dynamic Host ConfigurationProtocol se inventó para simplificar las asigna
 También ocurre esto entre tu router y el servidor de tu proveedor de telefónia de Internet, luego en el router tenemos dos IPs la que muestra a nuestra LAN que la podemos definir nosotros, es fija y es una de las IPs reservadas y la que navega el router por el mundo. Al ser una IP temporal se dice que es una **IP dinámica**
 
 ![](/assets/2019-12-26 08_54_36-Window.png)
+
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 
 Todos los ordenadores de tu LAN navegan con esa **IP pública** que está asignada temporalmente a tu router, y esta geolocalizada. ¿Cual es? Pues por ejemplo lo puedes averiguar en [https://ipleak.net](https://ipleak.net/), prueba dentro de unas horas y verás que ha cambiado. Toda esa información es pública de tu navegación en Internet, y es lo que permite localizar a los cyberdelincuentes. También puedes ver que no coincide exáctamente donde estás especialmente en el mundo rural pues está geolocalizada en el servidor de Internet. 
@@ -59,6 +60,7 @@ Como vemos en la figura se ha activado el DHCP y proporcionará a los equipos IP
 Gráficamente la configuración quedaría así:
 
 ![](/assets/2019-12-26 10_09_15-Window.png)
+
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 
 

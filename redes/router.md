@@ -41,7 +41,7 @@ El principal sospechoso sería el router, hay que comprobar si están encendidos
 
 Con un sistema operativo llamado **firmware** (software almacenado en los chips de un dispositivo) funcionando y accesible mediante una aplicación web. 
 
-**El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU** no obstante consideramos que en tu formación COFOTAP conozcas de la existencia de esta aplicación por la importancia en la configuración de tu red.
+**El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU** no obstante consideramos que en tu formación COFOTAP conozcas de la existencia de la configuración del router por la importancia que tiene en la LAN de tu centro.
 
 Para acceder a la aplicación hay que teclear [la IP puerta de enlace](/redes/ips.md) en un navegador:
 
@@ -50,42 +50,49 @@ Para acceder a la aplicación hay que teclear [la IP puerta de enlace](/redes/ip
 y **CADA MODELO DE ROUTER TIENE UNA APLICACION WEB DISTINTA** aquí por ejemplo vamos a enseñar capturas del modelo de router Movistar:
 
 ![](/assets/2019-12-23 09_41_42-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
 Para acceder se pide un usuario y contraseña
 
 ![](/assets/2019-12-23 09_45_14-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
->Es curioso saber que el router es siempre ignorado como elemento crítico de seguridad, esto ha provocado muchos problemas. Una vez en una PYME de un amigo mio, se le infectaba cualquier PC que se conectaba en la red LAN de su pequeña oficina. Al final descubrí que el virus estaba en su router pues tenía una contraseña de acceso un poco débil: 1234 ¿no crees que algún hacker la conoce? fue cambiarla y actualizar el firmware y problema resuelto. ¿Y tú? ¿has cambiado la contraseña de tu router y tienes actualizado su firmware o llevas la misma de fábrica?
+>Es curioso saber que el router es siempre ignorado como elemento crítico de seguridad, esto ha provocado muchos problemas. Una vez en una PYME de un amigo mio, se le infectaba cualquier PC que se conectaba en la red LAN de su pequeña oficina. Al final descubrí que el virus estaba en su router pues tenía de contraseña : 1234 ¿la conocerán los hackers rusos? fue cambiarla y actualizar el firmware y problema resuelto. ¿Y tú? ¿has cambiado la contraseña de tu router y tienes actualizado su firmware o llevas la misma de fábrica? 🤢
 
 Entrar en la aplicación Web nos permite por ejemplo [cambiar la puerta de enlace, las DNS](/redes/ips.md) de tu red
 
 ![](/assets/2019-12-23 10_05_48-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
 O cambiar el nombre de la red wifi y su contraseña si es un router con wifi.
 
 ![](/assets/2019-12-23 10_00_31-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
 Es importante cambiar la **SSID** o nombre de red y su **contraseña**, y la encriptación que sea **WPA-PSK (TKIP)** de los que viene por defecto, para evitar accesos no deseados. 
 
->Existen muchas aplicaciones incluso APs que tienen los valores por defecto de los routers inalámbricos y así conectarse de forma pirata. El servicio CAU de tu centro ya ha tenido esta precaución ¿y tú en tu casa? ¿tienes el mismo nombre de red y contraseña Wifi en tu router que cuando lo comprastes?
+>Existen muchas aplicaciones incluso APs que tienen los valores por defecto de los routers inalámbricos y así conectarse de forma pirata a la Wifi del vecino. El servicio CAU de tu centro ya ha tenido esta precaución ¿y tú? ¿en tu casa? ¿tienes el mismo nombre de red y contraseña Wifi en tu router que cuando lo comprastes? 🤢🤢🤢🤢
 
 Para actualizar el Firmware hay que descargarlo de la web del fabricante y luego en la aplicación web del router entrar en opciones avanzadas:
 
 ![](/assets/2019-12-23 10_19_19-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
 Y seleccionar el fichero, teniendo en cuenta que mientras estamos actualizando el Firmware **no se puede desconectar el router** pues si se apaga, se inutiliza de forma permanente el router.
 
 ![](/assets/2019-12-23 10_19_30-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
-En esta aplicación web también se pueden **abrir puertos** PERO ESTO ES UNA PUERTA ABIERTA AL EXTERIOR con el consecuente peligro de seguridad. En la figura se puede ver que se ha abierto al equipo con la IP 192.168.1.33 diferentes puertos seguramente para descargas punto a punto P2P tipo Torrent y similares.
+En esta aplicación web también se pueden **abrir puertos** PERO ESTO ES UNA PUERTA ABIERTA AL EXTERIOR con el consecuente peligro de seguridad. En la figura se puede ver que se ha abierto al equipo con la IP 192.168.1.33 diferentes puertos seguramente para descargas punto a punto P2P tipo Torrent, eMule y similares.
 
 ![](/assets/2019-12-23 10_26_23-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
 

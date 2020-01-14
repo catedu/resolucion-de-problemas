@@ -14,5 +14,9 @@ Sí teóricamente, puedes poner **cualquier dirección DNS válida** para que te
 
 ![](/assets/2020-01-14 10_59_50.jpg)
 
+Si tecleas en la ventana de comandos **nslookup** puedes ver el nombre de su servidor, te tiene que salir el servidor del gobierno de aragón (en el caso de centros públicos):
+
+![](/assets/2020-01-14 20_45_04.jpg)
+
 
 

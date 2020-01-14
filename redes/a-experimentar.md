@@ -13,6 +13,10 @@ No siempre funciona pues muchas no todos los servidores y navegadores aceptan qu
 
 ¿Google tiene esa dirección siempre? si, la tiene fija la habrá contratado y no sólo esas, sino que tiene varios servidores replicados con diferentes ip, teclea en la ventana de comandos **nslookup www.google.es** y te saldrán varios que puedes tener acceso (no a todos).
 
+Nota: si tu versión de Windows es XP entra en Inicio-Ejecutar (o las teclas Windows+R) y teclea cmd para entrar en la ventana de comandos:
+
+![](/assets/2020-01-14 20_48_06.jpg)
+
 #¿Cuantos switchs y servidores hay entre mi ordenador y una página Web?
 
 Pues ya que sabes entrar a la ventana de comandos, teclea **tracert y la página que quieras** por ejemplo tracert google.es y te sorprenderás. La primera IP que verás es la de tu router (ver [IP puerta de enlace](/protocolos.md))
@@ -31,12 +35,14 @@ Nos da una idea de la calidad de nuestra conexión a esa web.
 
 ##¿Qué dirección IP tengo rápidamente?
 
-En Windows teclea en comandos **ipconfig** o si quieres saber también las dns **ipconfig/all** 
+En Windows teclea en comandos **ipconfig** o si quieres saber también las dns **ipconfig /all** 
 En Linux teclea **ifconfig**
 
 Por ejemplo se puede ver que mi IP es 4.6.1.30, que la puerta de enlace es 4.6.1.251 que la máscara de red es de tipo C y que mis DNS son las del Gobierno de Aragón:
 
 ![](/assets/2020-01-14 20_25_04.jpg)
+
+>Verás unos números largos que en la figura los he ocultado por seguridad, son **las direcciones MAC** de la tarjeta de red y del router. Son direcciones físicas que vienen de fábrica y son únicas y no se pueden cambiar.
 
 Si por ejemplo el ordenador está conectado a Internet desde dos sitios, sale toda la información:
 
@@ -50,11 +56,22 @@ Haz ping desde ese ordenador al router, por ejemplo si la puerta de enlace es 19
 
 ![](/assets/2020-01-14 20_23_31-Window.png)
 
+##¿Cómo puedo saber si mi ordenador está bien conectado a Internet?
+
+Haz ping a google por ejemplo **ping 8.8.8.8**
+
+![](/assets/2020-01-14 20_35_14.jpg)
+
+##Estoy bien conectado a Internet (tengo ping 8.8.8.8) pero no navego ¿cómo es posible?
+
+Muy fácil, si con IPs navegas pero con URLs no, es que **tienes mal las DNS** haz ipconfig /all y comprueba que tienes las DNS del Gobierno de Aragón 188.244.82.1 y 188.244.82.17
+
 ##¿Cómo puedo saber si dos dispositivos están conectados?
 
 Esto es muy útil por ejemplo hacer una IP a la impresora para comprobar que la conexión es correcta y las configuraciones de IPs son correctas. Es simplemente hacer un ping a ese dispositivo, por ejemplo si la impresora la tengo en la 4.6.1.148 hago :
 
 ![](/assets/2020-01-14 20_33_36.jpg)
+
 
 
 

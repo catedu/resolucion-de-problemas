@@ -20,6 +20,7 @@ Todos estos protocolos utilizan paquetes de información, pero estos a su vez ut
 DHCP, Dynamic Host ConfigurationProtocol se inventó para simplificar las asignaciones de IPs a los equipos para hacerlo automático, básicamente es una conversación entre el ordenador que quiere conectarse a Internet y el servidor, esta figura sería el esquema dentro de tu LAN:
 
 ![](/assets/2019-12-26 08_39_47-Window.png)
+
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 
 También ocurre esto entre tu router y el servidor de tu proveedor de telefónia de Internet, luego en el router tenemos dos IPs la que muestra a nuestra LAN que la podemos definir nosotros, es fija y es una de las IPs reservadas y la que navega el router por el mundo. Al ser una IP temporal se dice que es una **IP dinámica**

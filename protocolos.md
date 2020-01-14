@@ -23,13 +23,17 @@ DHCP, Dynamic Host ConfigurationProtocol se inventó para simplificar las asigna
 
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 
-También ocurre esto entre tu router y el servidor de tu proveedor de telefónia de Internet, luego en el router tenemos dos IPs la que muestra a nuestra LAN que la podemos definir nosotros, es fija y es una de las IPs reservadas y la que navega el router por el mundo. Al ser una IP temporal se dice que es una **IP dinámica**
+La pregunta del ordenador cliente *"No tengo IP ¿alguien me da una?"* la lanza a una IP especial llamada **Broadcast** que son todo unos al final y que lo leen todos los de su LAN.
+
+También ocurre esto entre tu router y el servidor de tu proveedor de telefónia de Internet, luego en el router tenemos dos IPs: la que muestra a nuestra LAN que la podemos definir nosotros, es fija y es una de las IPs reservadas y la que navega el router por el mundo. Al ser una IP temporal se dice que es una **IP dinámica**
 
 ![](/assets/2019-12-26 08_54_36-Window.png)
 
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 
-Todos los ordenadores de tu LAN navegan con esa **IP pública** que está asignada temporalmente a tu router, y esta geolocalizada. ¿Cual es? Pues por ejemplo lo puedes averiguar en [https://ipleak.net](https://ipleak.net/), prueba dentro de unas horas y verás que ha cambiado. Toda esa información es pública de tu navegación en Internet, y es lo que permite localizar a los cyberdelincuentes. También puedes ver que no coincide exáctamente donde estás especialmente en el mundo rural pues está geolocalizada en el servidor de Internet. 
+Todos los ordenadores de tu LAN navegan con esa **IP pública** que está asignada temporalmente a tu router, y esta geolocalizada. ¿Cual es? Pues por ejemplo lo puedes averiguar en [https://ipleak.net](https://ipleak.net/), prueba dentro de unas horas y verás que ha cambiado. Toda esa información es pública de tu navegación en Internet, y es lo que permite localizar a los cyberdelincuentes. 
+
+>Investiga: Entra en [https://ipleak.net](https://ipleak.net/) cuando estés por el ámbito rural (aunque sea con tu móvil) verás que no coincide donde estás. Yo por ejemplo estoy ahora en Calamocha y me dice que navego con 188.244.80.254 de Zaragoza. Esto es debido a que mi servidor de Internet está en los servidores de AST de Pignatelli. 
 
 ##La IP del router
 Esta IP privada del router hacia nuestra LAN es la IP que todos los equipos de nuestro centro tienen que saber para poder navegar, pues necesitan saber quién es el que les va a proveer el servicio de Internet. Esta IP especial se llama **IP DE LA PUERTA DE ACCESO** o también **GATEWAY**.

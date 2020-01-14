@@ -21,4 +21,8 @@ Sí teóricamente, puedes poner **cualquier dirección DNS** para que te puedas 
 
 Sale [172.217.17.3](/172.217.17.3) si lo pones en el navegador ¡¡te sale la página de Google!!
 
+No siempre funciona pues muchas no todos los servidores y navegadores aceptan que entres de forma directa.
+
+¿Google tiene esa dirección siempre? si, la tiene fija la habrá contratado y no sólo esas, sino que tiene varios servidores replicados con diferentes ip, teclea en la ventana de comandos **nslookup www.google.es** y te saldrán varios que puedes tener acceso (no a todos).
+
 

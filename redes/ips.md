@@ -25,10 +25,10 @@ Nos vamos a **Inicio - Panel de control - Conexiones de red e Internet - Conexio
   
  Aquí tenemos varias opciones que tienes que ver detenidamente:
  
- #####IP AUTOMÁTICA
+ ###IP AUTOMÁTICA
 Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP al equipo. Esto es posible si en la configuración del AP, switch o router se ha activado la **DHCP** ya lo hemos visto en el [anterior capítulo](/protocolos.md)
  
- #####IP ESTÁTICA - DIRECCIÓN IP
+ ###IP ESTÁTICA - DIRECCIÓN IP
  
  En muchos centros interesa que los equipos estén localizados, esto suele pasar en equipos fijos e impresoras. 
  
@@ -37,7 +37,27 @@ Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP
  
  >Si por error hemos configurado manualmente una IP estática al rango DHCP de un router, AP... puede ocurrir que dicha dirección sea asignada dinámicamente a otro PC, provocándose un **conflicto de IP**.
 
-#####IP ESTÁTICA - MÁSCARA DE RED
+####IP ESTÁTICA - MÁSCARA DE RED
+La máscara de red es un número de unos y ceros y en la frontera es lo que corta en la dirección IP que parte es lo común en toda la LAN de tu centro y qué parte es exclusiva a cada equipo.
+
+#### IP estática - Máscara de red - Tipo C
+Este se ve mejor en un ejemplo, supongamos que tenemos una IP en el **ordenador ALUMNO 172.168.1.23** y una MÁSCARA DE RED: 255.255.255.0 o sea en binario 11111111 . 11111111 . 11111111 . 00000000 eso quiere de cir que la parte común de toda la LAN de tu centro es 172.168.1 y el número 23 es propio de ese equipo. O sea que las IPs de ese centro van desde la 172.168.1.0 hasta la 172.168.1.255 en total puedes tener 255 equipos. Esta red se llama **Tipo C** y es la más común.
+
+Si a otro equipo, por ejemplo **ordenador PROFESOR IP 172.168.2.x ** entonces pertenece a otra LAN es decir **no se pueden ver entre ellos**. Y a otro equipo **JEFATURA IP 172.168.3.x** tampoco se verán entre ellos. Es un buen truco para separar equipos por ejemplo la red de alumnos con la red de profesores.
+
+#### IP estática - Máscara de red - Tipo B
+Pero si en tu centro quieres una red más amplia puedes utilizar la máscara 255.255.0.0 por lo tanto el rango de IPs de esa red para los ordenadores sería desde la 172.168.1.1 hasta 172.168.255.255 o sea que pueden haber hasta  65.536 ordenadores.
+
+Como te puedes imaginar existe la Tipo A con máscara 255.0.0.0 para un número de dispositivos de 2 elevado a 24.
+
+#### IP estática - Máscara de red - Mezclando tipos
+Pero se puede mezclar tipologías para que los alumnos (Red tipo C) NO pueden ver la red del profesor ni administración ni impresora (de tipo B) pero estos sí que pueden ver a todos pues su máscara se lo permite. Quedaría una cosa así:
+
+![](/assets/2020-01-14 18_35_59.jpg)
+
+
+
+
 
   
   

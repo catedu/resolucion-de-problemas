@@ -40,24 +40,27 @@ Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP
 ####IP ESTÁTICA - MÁSCARA DE RED
 La máscara de red es un número de unos y ceros y en la frontera es lo que corta en la dirección IP que parte es lo común en toda la LAN de tu centro y qué parte es exclusiva a cada equipo.
 
-#### IP estática - Máscara de red - Tipo C
-Este se ve mejor en un ejemplo, supongamos que tenemos una IP en el **ordenador ALUMNO 172.168.1.23** y una MÁSCARA DE RED: 255.255.255.0 o sea en binario 11111111 . 11111111 . 11111111 . 00000000 eso quiere decir que la parte común de toda la LAN de tu centro es 172.168.1 y el número 23 es propio de ese equipo. O sea que las IPs de ese centro van desde la 172.168.1.0 hasta la 172.168.1.255 en total puedes tener 255 equipos. Esta red se llama **Tipo C** y es la más común.
+#### IP estática - Máscara de red - Tipo C (la más común)
+Esto se ve mejor en un ejemplo, supongamos que tenemos una IP en el **ordenador ALUMNO 172.168.1.23** y una MÁSCARA DE RED: **255.255.255.0** o sea en binario 11111111 . 11111111 . 11111111 . 00000000 eso quiere decir que la parte común de toda la LAN de tu centro es 172.168.1 y el número 23 es propio de ese equipo. 
 
-Si a otro equipo, por ejemplo **ordenador PROFESOR IP 172.168.2.x ** entonces pertenece a otra LAN es decir **no se pueden ver entre ellos**. Y a otro equipo **JEFATURA IP 172.168.3.x** tampoco se verán entre ellos. Es un buen truco para separar equipos por ejemplo la red de alumnos con la red de profesores.
+O sea que las IPs de ese centro van desde la 172.168.1.0 hasta la 172.168.1.254 en total puedes tener 255 equipos. Esta red se llama **Tipo C** y es la más común.
 
-#### IP estática - Máscara de red - Tipo B
-Pero si en tu centro quieres una red más amplia puedes utilizar la máscara 255.255.0.0 por lo tanto el rango de IPs de esa red para los ordenadores sería desde la 172.168.1.1 hasta 172.168.255.255 o sea que pueden haber hasta 2 elevado a 16 o sea 65.536 dispositivos.
+>Nota: no se puede utilizar la 172.168.1.255 pues es la dirección especial *Broadcast*.
 
-Como te puedes imaginar existe la Tipo A con máscara 255.0.0.0 para un número de dispositivos de 2 elevado a 24.
+Si a otro equipo, por ejemplo **ordenador PROFESOR IP 172.168.2.15 ** entonces pertenece a otra LAN es decir **no se pueden ver entre ellos**. Y a otro equipo **JEFATURA IP 172.168.3.6** tampoco se verán entre ellos. Es lo que se llama crear subredes.
 
-#### IP estática - Máscara de red - Mezclando tipos
-Pero se puede mezclar tipologías para que los alumnos (Red tipo C) NO pueden ver la red del profesor ni administración ni impresora (de tipo B) pero estos sí que pueden ver a todos pues su máscara se lo permite. Quedaría una cosa así:
+Un ejemplo de arquitectura de red sería la siguiente
 
-![](/assets/2020-01-14 18_35_59.jpg)
+![](/assets/2020-01-14 18_57_48.jpg)
 
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 
-No obstante no es un método fiable pues algún alumno *listo* simplemente cambiando la máscara de red de su ordenador a 255.255.0.0 accedería a los ordenadores *prohibidos*.
+>Podrías pensar que algún alumno *listo* simplemente cambiando la IP a por ejemplo 172.168.3.24 podría acceder a jefatura 172.168.3.6, pero si el switch que le tiene que dar acceso (los Ubiquitis en el caso de la figura anterior) pertenecen a la red 172.168.1.x no puede, ese ordenador hacker se queda aislado, ni siquiera podría navegar.
+
+#### IP estática - Máscara de red - Tipo B
+Pero si en tu centro quieres una red más amplia puedes utilizar la máscara 255.255.0.0 por lo tanto el rango de IPs de esa red para los ordenadores sería desde la 172.168.1.1 hasta 172.168.255.254 (la 172.168.255.255 sería la de *Broadcast*) o sea que pueden haber hasta 2 elevado a 16 o sea 65.536 dispositivos.
+
+Como te puedes imaginar existe la Tipo A con máscara 255.0.0.0 para un número de dispositivos de 2 elevado a 24.
 
 >Las máscaras de red no tienen por que ser de las descritas por ejemplo una máscara 255.255.248.0 sería en binario 11111111 . 11111111 . 1111000 . 00000000 lo que permite 2 elevado a 11 equipos (tantos como 0) o sea 2.048 equipos.
 

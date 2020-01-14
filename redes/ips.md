@@ -28,12 +28,16 @@ Nos vamos a **Inicio - Panel de control - Conexiones de red e Internet - Conexio
  #####IP AUTOMÁTICA
 Podemos hacer que el router, switchs , o  los AP asignen automáticamente una IP al equipo. Esto es posible si en la configuración del AP, switch o router se ha activado la **DHCP** ya lo hemos visto en el [anterior capítulo](/protocolos.md)
  
- #####IP ESTÁTICA
+ #####IP ESTÁTICA - DIRECCIÓN IP
  
+ En muchos centros interesa que los equipos estén localizados, esto suele pasar en equipos fijos e impresoras. 
  
+ * Hay que tener cuidado con no poner una IP de otro equipo.
+ * Las IPs tienen que ser de las reservadas pues estamos hablando de tu LAN local no de la WAN (o sea la externa, Internet).
  
  >Si por error hemos configurado manualmente una IP estática al rango DHCP de un router, AP... puede ocurrir que dicha dirección sea asignada dinámicamente a otro PC, provocándose un **conflicto de IP**.
 
+#####IP ESTÁTICA - MÁSCARA DE RED
 
   
   

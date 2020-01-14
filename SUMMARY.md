@@ -10,6 +10,6 @@
   * [Router](redes/router.md)
   * [Protocolos](protocolos.md)
   * [IPs](redes/ips.md)
+  * [DNS](dns.md)
 * [¿Problemas? ¿Qué hago?](problemas-que-hago.md)
-
 

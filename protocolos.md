@@ -25,18 +25,29 @@ DHCP, Dynamic Host ConfigurationProtocol se inventó para simplificar las asigna
 
 La pregunta del ordenador cliente *"No tengo IP ¿alguien me da una?"* la lanza a una IP especial llamada **Broadcast** que son todo unos al final y que lo leen todos los de su LAN.
 
-También ocurre esto entre tu router y el servidor de tu proveedor de telefónia de Internet, luego en el router tenemos dos IPs: la que muestra a nuestra LAN que la podemos definir nosotros, es fija y es una de las IPs reservadas y la que navega el router por el mundo. Al ser una IP temporal se dice que es una **IP dinámica**
+#La IP pública
 
-![](/assets/2019-12-26 08_54_36-Window.png)
+También ocurre esto entre tu router y el servidor de tu proveedor de telefónia de Internet, luego tenemos: 
+
+* La IP que muestra nuestro router a nuestra LAN que la podemos definir nosotros, es fija, llamada **puerta de enlace**
+* Una IP del router al servidor de Internet que la define el servidor de Internet por su propio protocolo DHCP.
+* La que navega el servidor de Internet y la que ve el mundo. Es la **IP Pública** y esta geolocalizada. ¿Cual es? Pues por ejemplo lo puedes averiguar en [https://ipleak.net](https://ipleak.net/), como puedes ver **todo lo que hacemos en Internet deja un rastro**. 
+
+>Investiga: Entra en [https://ipleak.net](https://ipleak.net/) cuando estés por el ámbito rural (aunque sea con tu móvil) verás que no coincide con tu situación real. Yo por ejemplo estoy ahora en Calamocha y me dice que navego con 188.244.80.254 de Zaragoza. Esto es debido a que mi servidor de Internet está en los servidores de AST de Pignatelli y tienen esa IP.
+
+![](/assets/2020-01-14 19_47_52.jpg)
 
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 
-Todos los ordenadores de tu LAN navegan con esa **IP pública** que está asignada temporalmente a tu router, y esta geolocalizada. ¿Cual es? Pues por ejemplo lo puedes averiguar en [https://ipleak.net](https://ipleak.net/), prueba dentro de unas horas y verás que ha cambiado. Toda esa información es pública de tu navegación en Internet, y es lo que permite localizar a los cyberdelincuentes. 
+Suele pasar que tanto la del Router al Servidor de Internet como la pública son IPs temporales, entonces se llaman **IP dinámica**
 
->Investiga: Entra en [https://ipleak.net](https://ipleak.net/) cuando estés por el ámbito rural (aunque sea con tu móvil) verás que no coincide con tu situación real. Yo por ejemplo estoy ahora en Calamocha y me dice que navego con 188.244.80.254 de Zaragoza. Esto es debido a que mi servidor de Internet está en los servidores de AST de Pignatelli y tienen esa IP. 
 
-##La IP del router
-Esta IP privada del router hacia nuestra LAN es la IP que todos los equipos de nuestro centro tienen que saber para poder navegar, pues necesitan saber quién es el que les va a proveer el servicio de Internet. Esta IP especial se llama **IP DE LA PUERTA DE ACCESO** o también **GATEWAY**, suele ser en tu centro la 172.168.1.1.
+
+ 
+
+##La IP del router, puerta de enlace, acceso o Gateway
+
+Esta IP privada del router hacia nuestra LAN es la IP que todos los equipos de nuestro centro tienen que saber para poder navegar, pues necesitan saber quién es el que les va a proveer el servicio de Internet. Esta IP especial se llama **IP DE LA PUERTA DE ENLACE** o también **GATEWAY**, suele ser en tu centro la 172.168.1.1.
 
 ##¿Cómo se configura el DHCP ?
 Vamos a poner el ejemplo de configurar el DHCP de un AP Ubiquiti.

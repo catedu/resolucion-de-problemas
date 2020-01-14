@@ -6,6 +6,10 @@ Por ejemplo la IP 192.168.1.55 es realmente 1100000 10101000 00000001 00110111
 
 **NO PUEDE HABER EN EL MUNDO DOS EQUIPOS CON LA MISMA IP** excepto las IP reservadas. Esto provoca que ya quedan pocos IP4 disponibles, por eso se creó el [IPv6](https://es.wikipedia.org/wiki/IPv6).
 
+>INVESTIGA UN POCO: Entra en dos equipos diferentes de tu centro (o de tu casa) y a la vez a la página [ipleak.net](https://ipleak.net/) ¿cómo es posible que están navegando con la misma IP?
+
+>Respuesta: Esto es debido a que las IPs de tu  
+
 ##IPv4 reservadas
 Dentro de la LAN de tu centro se asignan IPs a cada equipo, cada una es única **dentro de la LAN** pero esta información llega al router y el router cambia esa IP por la suya que es única en la WAN de Internet, o sea que la IP del ordenador del centro *no viaja como cabecera por Internet*. Incluso la del router tampoco pues el servidor de Internet lo cambia también.
 

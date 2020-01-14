@@ -7,7 +7,7 @@ Por ejemplo la IP 192.168.1.55 es realmente 1100000 10101000 00000001 00110111
 **NO PUEDE HABER EN EL MUNDO DOS EQUIPOS CON LA MISMA IP** excepto las IP reservadas. Esto provoca que ya quedan pocos IP4 disponibles, por eso se creó el [IPv6](https://es.wikipedia.org/wiki/IPv6).
 
 ##IPv4 reservadas
-Dentro de la LAN de tu centro se asignan IPs a cada equipo, cada una es única **dentro de la LAN** pero esta información llega al router y el router cambia esa IP por la suya que es única en la WAN de Internet, o sea que la IP del ordenador del centro *no viaja como cabecera por Internet* sino la del router.
+Dentro de la LAN de tu centro se asignan IPs a cada equipo, cada una es única **dentro de la LAN** pero esta información llega al router y el router cambia esa IP por la suya que es única en la WAN de Internet, o sea que la IP del ordenador del centro *no viaja como cabecera por Internet*. Incluso la del router tampoco pues el servidor de Internet lo cambia también.
 
  Luego el router ya se encarga de distribuir los paquetes a cada equipo de la LAN pues realmente la IP del equipo se sigue conservando dentro del paquete de información.
  
@@ -15,7 +15,7 @@ Dentro de la LAN de tu centro se asignan IPs a cada equipo, cada una es única *
   
   **Conclusión:** Las 192.168.x.x donde x son números entre 0 y 255 están [reservadas para uso privado](https://es.wikipedia.org/wiki/Red_privada) interno dentro de las LAN. También las 172.16.x.x hasta la 172.31.x.x.
   
-  La 127.0.0.1 es una dirección especial que se usa para referirse a uno mismo y la 255.255.255.255 es para referirse a todos.
+  La 127.0.0.1 es una dirección especial que se usa para referirse a uno mismo y las que tienen todos unos: 255 también es especial que es para referirse a todos (Broadcast).
   
  #CONFIGURAR LA IPv4
    

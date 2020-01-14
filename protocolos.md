@@ -33,10 +33,10 @@ También ocurre esto entre tu router y el servidor de tu proveedor de telefónia
 
 Todos los ordenadores de tu LAN navegan con esa **IP pública** que está asignada temporalmente a tu router, y esta geolocalizada. ¿Cual es? Pues por ejemplo lo puedes averiguar en [https://ipleak.net](https://ipleak.net/), prueba dentro de unas horas y verás que ha cambiado. Toda esa información es pública de tu navegación en Internet, y es lo que permite localizar a los cyberdelincuentes. 
 
->Investiga: Entra en [https://ipleak.net](https://ipleak.net/) cuando estés por el ámbito rural (aunque sea con tu móvil) verás que no coincide donde estás. Yo por ejemplo estoy ahora en Calamocha y me dice que navego con 188.244.80.254 de Zaragoza. Esto es debido a que mi servidor de Internet está en los servidores de AST de Pignatelli. 
+>Investiga: Entra en [https://ipleak.net](https://ipleak.net/) cuando estés por el ámbito rural (aunque sea con tu móvil) verás que no coincide con tu situación real. Yo por ejemplo estoy ahora en Calamocha y me dice que navego con 188.244.80.254 de Zaragoza. Esto es debido a que mi servidor de Internet está en los servidores de AST de Pignatelli y tienen esa IP. 
 
 ##La IP del router
-Esta IP privada del router hacia nuestra LAN es la IP que todos los equipos de nuestro centro tienen que saber para poder navegar, pues necesitan saber quién es el que les va a proveer el servicio de Internet. Esta IP especial se llama **IP DE LA PUERTA DE ACCESO** o también **GATEWAY**.
+Esta IP privada del router hacia nuestra LAN es la IP que todos los equipos de nuestro centro tienen que saber para poder navegar, pues necesitan saber quién es el que les va a proveer el servicio de Internet. Esta IP especial se llama **IP DE LA PUERTA DE ACCESO** o también **GATEWAY**, suele ser en tu centro la 172.168.1.1.
 
 ##¿Cómo se configura el DHCP ?
 Vamos a poner el ejemplo de configurar el DHCP de un AP Ubiquiti.

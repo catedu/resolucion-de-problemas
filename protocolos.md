@@ -41,9 +41,9 @@ También ocurre esto entre tu router y el servidor de tu proveedor de telefónia
 
 Suele pasar que tanto la del Router al Servidor de Internet como la pública son IPs temporales, entonces se llaman **IP dinámica**
 
+>INVESTIGA UN POCO: Entra en dos equipos diferentes de tu centro (o de tu casa) y a la vez a la página [ipleak.net](https://ipleak.net/) ¿cómo es posible que están navegando con la misma IP?
+>Respuesta: Esto es debido a que las IPs de tu LAN son reservadas y navegan con la misma IP pública que es el mismo servidor de Internet
 
-
- 
 
 ##La IP del router, puerta de enlace, acceso o Gateway
 

@@ -4,14 +4,10 @@ Está formado por 4 números cada uno de ellos puede ser desde 0 hasta 255 y el 
 
 Por ejemplo la IP 192.168.1.55 es realmente 1100000 10101000 00000001 00110111
 
-**NO PUEDE HABER EN EL MUNDO DOS EQUIPOS CON LA MISMA IP** excepto las IP reservadas. Esto provoca que ya quedan pocos IP4 disponibles, por eso se creó el [IPv6](https://es.wikipedia.org/wiki/IPv6).
-
->INVESTIGA UN POCO: Entra en dos equipos diferentes de tu centro (o de tu casa) y a la vez a la página [ipleak.net](https://ipleak.net/) ¿cómo es posible que están navegando con la misma IP?
-
->Respuesta: Esto es debido a que las IPs de tu  
+**NO PUEDE HABER EN EL MUNDO DOS EQUIPOS QUE NAVEGUEN CON LA MISMA IP** (excepto las IP reservadas, éstas no salen al exterior). Esto provoca que ya quedan pocos IP4 disponibles, por eso se creó el [IPv6](https://es.wikipedia.org/wiki/IPv6).
 
 ##IPv4 reservadas
-Dentro de la LAN de tu centro se asignan IPs a cada equipo, cada una es única **dentro de la LAN** pero esta información llega al router y el router cambia esa IP por la suya que es única en la WAN de Internet, o sea que la IP del ordenador del centro *no viaja como cabecera por Internet*. Incluso la del router tampoco pues el servidor de Internet lo cambia también.
+Dentro de la LAN de tu centro se asignan IPs a cada equipo, son IP reservadas, cada una es única **dentro de tu LAN** pero esta información llega al router y al servidor de Internet y cambia esa IP por la suya **la IP pública** que es única en la WAN de Internet, o sea que la IP del ordenador del centro que es IP reservada *no viaja como cabecera por Internet*. 
 
  Luego el router ya se encarga de distribuir los paquetes a cada equipo de la LAN pues realmente la IP del equipo se sigue conservando dentro del paquete de información.
  

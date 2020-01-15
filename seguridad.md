@@ -1,5 +1,6 @@
 #Seguridad
 
+En este capítulo nos centramos en la prevención de problemas y en la concienciación de cara a la educación de los alumnos del buen uso de Internet.
 
+![](/assets/2020-01-15 20_08_25-Window.png)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTH2IKdapM_1zHbUzFUedKtTPCg_LhQJvnJ9TeWoQ0bEgL_yZ5grBUheoXDzwaUtzPjVYU_hHOaocIC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

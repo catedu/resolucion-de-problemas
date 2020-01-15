@@ -14,9 +14,16 @@ Sí, teóricamente, puedes poner **cualquier dirección DNS válida** para que t
 
 ![](/assets/2020-01-14 10_59_50.jpg)
 
-Si tecleas en la ventana de comandos **nslookup** puedes ver el nombre de su servidor, te tiene que salir el servidor del gobierno de aragón (en el caso de centros públicos):
+Si tecleas en la [ventana de comandos](/redes/a-experimentar.md) **nslookup** puedes ver el nombre de su servidor, te tiene que salir el servidor del gobierno de aragón (en el caso de centros públicos):
 
 ![](/assets/2020-01-14 20_45_04.jpg)
+
+>EXPERIMENTA ¿qué dirección me proporciona mi servidor DNS para una página concreta? por ejemplo www.catedu.es
+>Respuesta: Teclea **nslookup www.catedu.es** y te saldrá una cosa así:
+
+![](/assets/2020-01-15 07_39_38-Window.png)
+
+>Donde las primeras dos direcciones son las de tu servidor DNS (en el caso de la figura es un servidor de Jazztel con IP 87.216.1.65 pues lo he hecho en casa) y las otras dos son las de CATEDU, o sea que su IP es 217.76.130.174.
 
 
 

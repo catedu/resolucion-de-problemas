@@ -1,21 +1,19 @@
 #A EXPERIMENTAR
+#Entrar en la ventana de comandos
+
+Entra en la ventana de comandos buscando **cmd** en Windows. En Linux tiene su propia ventana de comandos en **terminal**)
+
+>Nota: si tu versión de Windows es XP entra en Inicio-Ejecutar (o las teclas Windows+R) y teclea cmd para entrar en la ventana de comandos:
+
+![](/assets/2020-01-14 20_48_06.jpg)
+
 #¿Cómo puedo saber la IP de una página WEB?
 
-Muy fácil, con el comando ping a esa página (entra en la ventana de comandos buscando **cmd** en linux tiene su propia ventana de comandos en **terminal**)
-
-Por ejemplo para la página www.google.es vemos este resultado:
+Muy fácil, con el comando **ping** a esa página. Por ejemplo para la página www.google.es teclea **ping google.es** y vemos este resultado:
 
 ![](/assets/2020-01-14 11_04_22.jpg)
 
-Sale [172.217.17.3](/172.217.17.3) si lo pones en el navegador ¡¡te sale la página de Google!!
-
-No siempre funciona pues muchas no todos los servidores y navegadores aceptan que entres de forma directa.
-
-¿Google tiene esa dirección siempre? si, la tiene fija la habrá contratado y no sólo esas, sino que tiene varios servidores replicados con diferentes ip, teclea en la ventana de comandos **nslookup www.google.es** y te saldrán varios que puedes tener acceso (no a todos).
-
-Nota: si tu versión de Windows es XP entra en Inicio-Ejecutar (o las teclas Windows+R) y teclea cmd para entrar en la ventana de comandos:
-
-![](/assets/2020-01-14 20_48_06.jpg)
+Sale [172.217.17.3](/172.217.17.3) (a ti te puede salir otra IP pues tiene varios IPs contratados y varios servidores replicados) si lo pones en el navegador ¡¡te sale la página de Google!!. No siempre funciona para todas las páginas web, en Google si, pero en otras páginas, los servidores y navegadores no aceptan que entres de forma directa.
 
 #¿Cuantos switchs y servidores hay entre mi ordenador y una página Web?
 

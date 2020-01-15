@@ -30,7 +30,7 @@ La pregunta del ordenador cliente *"No tengo IP ¿alguien me da una?"* la lanza 
 También ocurre esto entre tu router y el servidor de tu proveedor de telefónia de Internet, luego tenemos: 
 
 * La IP que muestra nuestro router a nuestra LAN que la podemos definir nosotros, es fija, llamada **puerta de enlace**
-* Una IP del router al servidor de Internet que la define el servidor de Internet por su propio protocolo DHCP.
+* Una IP del router al servidor de Internet que la define el servidor de Internet por su propio protocolo DHCP, al ser una IP temporal, entonces se llama **IP dinámica**..
 * La que navega el servidor de Internet y la que ve el mundo. Es la **IP Pública** y esta geolocalizada. ¿Cual es? Pues por ejemplo lo puedes averiguar en [https://ipleak.net](https://ipleak.net/), como puedes ver **todo lo que hacemos en Internet deja un rastro**. 
 
 >Investiga: Entra en [https://ipleak.net](https://ipleak.net/) cuando estés por el ámbito rural (aunque sea con tu móvil) verás que no coincide con tu situación real. Yo por ejemplo estoy ahora en Calamocha y me dice que navego con 188.244.80.254 de Zaragoza. Esto es debido a que mi servidor de Internet está en los servidores de AST de Pignatelli y tienen esa IP.
@@ -38,8 +38,6 @@ También ocurre esto entre tu router y el servidor de tu proveedor de telefónia
 ![](/assets/2020-01-14 19_47_52.jpg)
 
 *Fuente elaboración propia con imágenes CC de Wikipedia*
-
-Suele pasar que tanto la del Router al Servidor de Internet como la pública son IPs temporales, entonces se llaman **IP dinámica**
 
 >INVESTIGA UN POCO: Entra en dos equipos diferentes de tu centro (o de tu casa) y a la vez a la página [ipleak.net](https://ipleak.net/) ¿cómo es posible que están navegando con la misma IP?
 >Respuesta: Esto es debido a que las IPs de tu LAN son reservadas y navegan con la misma IP pública que es el mismo servidor de Internet

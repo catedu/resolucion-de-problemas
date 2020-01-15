@@ -91,6 +91,8 @@ Y seleccionar el fichero, teniendo en cuenta que mientras estamos actualizando e
 
 *Fuente Movistar manual usuario*
 
+>Hoy en día los Routers modernos simplememente se actualizan reseteándolos.
+
 En esta aplicación web también se pueden **abrir puertos** PERO ESTO ES UNA PUERTA ABIERTA AL EXTERIOR con el consecuente peligro de seguridad. En la figura se puede ver que se ha abierto al equipo con la IP 192.168.1.33 diferentes puertos seguramente para descargas punto a punto P2P tipo Torrent, eMule y similares.
 
 ![](/assets/2019-12-23 10_26_23-Adobe Flash Player 11.png)

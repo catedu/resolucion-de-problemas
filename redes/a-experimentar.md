@@ -15,6 +15,8 @@ Muy fácil, con el comando **ping** a esa página. Por ejemplo para la página w
 
 Sale [172.217.17.3](/172.217.17.3) (a ti te puede salir otra IP pues tiene varios IPs contratados y varios servidores replicados) si lo pones en el navegador ¡¡te sale la página de Google!!. No siempre funciona para todas las páginas web, en Google si, pero en otras páginas, los servidores y navegadores no aceptan que entres de forma directa.
 
+Otra manera rápida de averiguarlo es con el comando nslookup que ya vimos en [DNS](/dns.md).
+
 #¿Cuantos switchs y servidores hay entre mi ordenador y una página Web?
 
 Pues ya que sabes entrar a la ventana de comandos, teclea **tracert y la página que quieras** por ejemplo tracert google.es y te sorprenderás. La primera IP que verás es la de tu router (ver [IP puerta de enlace](/protocolos.md))

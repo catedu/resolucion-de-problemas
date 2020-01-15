@@ -43,11 +43,11 @@ La máscara de red es un número de unos y ceros y en la frontera es lo que cort
 #### IP estática - Máscara de red - Tipo C (la más común)
 Esto se ve mejor en un ejemplo, supongamos que tenemos una IP en el **ordenador ALUMNO 172.168.1.23** y una MÁSCARA DE RED: **255.255.255.0** o sea en binario 11111111 . 11111111 . 11111111 . 00000000 eso quiere decir que la parte común de toda la LAN de tu centro es 172.168.1 y el número 23 es propio de ese equipo. 
 
-O sea que las IPs de ese centro van desde la 172.168.1.0 hasta la 172.168.1.254 en total puedes tener 255 equipos. Esta red se llama **Tipo C** y es la más común.
+O sea que las IPs de esa subred de ese centro van desde la 172.168.1.0 hasta la 172.168.1.254 en total puedes tener 255 equipos.
 
 >Nota: no se puede utilizar la 172.168.1.255 pues es la dirección especial *Broadcast*.
 
-Si a otro equipo, por ejemplo **ordenador PROFESOR IP 172.168.2.15 ** entonces pertenece a otra LAN es decir **no se pueden ver entre ellos**. Y a otro equipo **JEFATURA IP 172.168.3.6** tampoco se verán entre ellos. Es lo que se llama crear subredes.
+Si a otro equipo, por ejemplo **ordenador PROFESOR IP 172.168.2.15 ** entonces pertenece a otra LAN es decir **no se pueden ver entre ellos**. Y a otro equipo **JEFATURA IP 172.168.3.6** tampoco se verán entre ellos. Es lo que se llama crear subredes **VLAN**.
 
 Un ejemplo de arquitectura de red sería la siguiente
 
@@ -58,11 +58,11 @@ Un ejemplo de arquitectura de red sería la siguiente
 >Podrías pensar que algún alumno *listo* simplemente cambiando la IP a por ejemplo 172.168.3.24 podría acceder a jefatura 172.168.3.6, pero si el switch que le tiene que dar acceso (los Ubiquitis en el caso de la figura anterior) pertenecen a la red 172.168.1.x no puede, ese ordenador hacker se queda aislado, ni siquiera podría navegar.
 
 #### IP estática - Máscara de red - Tipo B
-Pero si en tu centro quieres una red más amplia puedes utilizar la máscara 255.255.0.0 por lo tanto el rango de IPs de esa red para los ordenadores sería desde la 172.168.1.1 hasta 172.168.255.254 (la 172.168.255.255 sería la de *Broadcast*) o sea que pueden haber hasta 2 elevado a 16 o sea 65.536 dispositivos.
+Pero si en tu centro quieres una VLAN más amplia puedes utilizar la máscara 255.255.0.0 por lo tanto el rango de IPs de esa red para los ordenadores sería desde la 172.168.1.1 hasta 172.168.255.254 (la 172.168.255.255 sería la de *Broadcast*) o sea que pueden haber hasta 2 elevado a 16 o sea 65.536 dispositivos en esa VLAN.
 
 Como te puedes imaginar existe la Tipo A con máscara 255.0.0.0 para un número de dispositivos de 2 elevado a 24.
 
->Las máscaras de red no tienen por que ser de las descritas por ejemplo una máscara 255.255.248.0 sería en binario 11111111 . 11111111 . 1111000 . 00000000 lo que permite 2 elevado a 11 equipos (tantos como 0) o sea 2.048 equipos.
+>Las máscaras de red no tienen por que ser de las descritas por ejemplo una máscara 255.255.248.0 sería en binario 11111111 . 11111111 . 1111000 . 00000000 lo que permite 2 elevado a 11 equipos en la VLAN (tantos como 0) o sea 2.048 equipos.
 
 ##IP ESTÁTICA - PUERTA DE ENLACE o GATEWAY
 Es la IP del router, es decir, el equipo tiene que saber qué equipo de su LAN es el que le da acceso a la WAN exterior, o sea Internet. Normalmente suele ser 172.168.1.1 ver [Router](/redes/router.md)

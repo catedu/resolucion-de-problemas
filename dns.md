@@ -25,5 +25,9 @@ Si tecleas en la [ventana de comandos](/redes/a-experimentar.md) **nslookup** pu
 
 >Donde las primeras dos direcciones son las de tu servidor DNS (en el caso de la figura es un servidor de Jazztel con IP 87.216.1.65 pues lo he hecho en casa) y las otras dos son las de CATEDU, o sea que su IP es 217.76.130.174.
 
+Según la página que busques, pueden salir varias IPs pues puede tener esa web varios servidores replicados con diferentes IPs:
+
+![](/assets/2020-01-15 07_46_33-Window.png)
+
 
 

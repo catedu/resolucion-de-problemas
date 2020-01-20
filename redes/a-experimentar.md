@@ -44,6 +44,8 @@ Por ejemplo se puede ver que mi IP es 4.6.1.30, que la puerta de enlace es 4.6.1
 
 >Verás unos números largos que en la figura los he ocultado por seguridad, son **las direcciones MAC** de la tarjeta de red y del router. Son direcciones físicas que vienen de fábrica y son únicas y no se pueden cambiar.
 
+![](/assets/Sintítulo1.jpg)
+
 Si por ejemplo el ordenador está conectado a Internet desde dos sitios, sale toda la información:
 
 ![](/assets/2020-01-14 20_28_56-Window.png)

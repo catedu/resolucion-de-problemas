@@ -42,7 +42,6 @@ También ocurre esto entre tu router y el servidor de tu proveedor de telefónia
 >INVESTIGA UN POCO: Entra en dos equipos diferentes de tu centro (o de tu casa) y a la vez a la página [ipleak.net](https://ipleak.net/) ¿cómo es posible que están navegando con la misma IP?
 >Respuesta: Esto es debido a que las IPs de tu LAN son reservadas y navegan con la misma IP pública que es el mismo servidor de Internet
 
-
 ##La IP del router, puerta de enlace, acceso o Gateway
 
 Esta IP privada del router hacia nuestra LAN es la IP que todos los equipos de nuestro centro tienen que saber para poder navegar, pues necesitan saber quién es el que les va a proveer el servicio de Internet. Esta IP especial se llama **IP DE LA PUERTA DE ENLACE** o también **GATEWAY**, suele ser en tu centro la 172.168.1.1.

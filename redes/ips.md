@@ -17,6 +17,8 @@ Dentro de la LAN de tu centro se asignan IPs a cada equipo, son IP reservadas, c
   
   La 127.0.0.1 es una dirección especial que se usa para referirse a uno mismo y las que tienen todos unos: 255 también es especial que es para referirse a todos (Broadcast).
   
+  ![](/assets/2020-01-20 13_34_28.jpg)
+  
  #CONFIGURAR LA IPv4
    
 Nos vamos a **Inicio - Panel de control - Conexiones de red e Internet - Conexiones de red** y aparecen nuestras conexiones, fija, inalámbrica. Nos vamos a la que queremos configurar con el **botón derecho - Propiedades - Protocolo TPCP/IPv4** 

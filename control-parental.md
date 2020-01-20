@@ -1,7 +1,7 @@
 #Control parental
 ##Situémonos
 
-
+Según https://www.qustodio.com/es/family/why-qustodio/ el 34% de estudiantes en colegios e institutos ha experimentado cyberbuying, el 41% de niños a contactado con desconocidos peligrosos o no deseados y el 31% de niños han mandado o recibido mensajes con contenido sexual. (enero 2020).
 
 #RECOMENDADO: DNS de control infantil
 

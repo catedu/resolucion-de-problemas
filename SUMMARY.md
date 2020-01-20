@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Hardware](hardware.md)
+* [Software](software.md)
 * [Redes](redes.md)
   * [Estructura de una red](redes/estructura-de-una-red.md)
   * [Cableado](redes/cableado.md)

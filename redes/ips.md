@@ -62,6 +62,8 @@ Un ejemplo de arquitectura de red sería la siguiente
 #### IP estática - Máscara de red - Tipo B
 Pero si en tu centro quieres una VLAN más amplia puedes utilizar la máscara 255.255.0.0 por lo tanto el rango de IPs de esa red para los ordenadores sería desde la 172.168.1.1 hasta 172.168.255.254 (la 172.168.255.255 sería la de *Broadcast*) o sea que pueden haber hasta 2 elevado a 16 o sea 65.536 dispositivos en esa VLAN.
 
+#### IP estática - Máscara de red - Otros tipos
+
 Como te puedes imaginar existe la Tipo A con máscara 255.0.0.0 para un número de dispositivos de 2 elevado a 24.
 
 >Las máscaras de red no tienen por que ser de las descritas por ejemplo una máscara 255.255.248.0 sería en binario 11111111 . 11111111 . 1111000 . 00000000 lo que permite 2 elevado a 11 equipos en la VLAN (tantos como 0) o sea 2.048 equipos.

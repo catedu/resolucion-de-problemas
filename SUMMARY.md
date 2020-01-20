@@ -13,6 +13,6 @@
 * [Seguridad](seguridad.md)
   * [Peligros](peligros.md)
   * [Control parental](control-parental.md)
-* [¿Problemas? ¿Qué hago?](problemas-que-hago.md)
+* [Problemas ¿Qué hago?](problemas-que-hago.md)
 * [No estas sólo](no-estas-solo.md)
 

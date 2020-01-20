@@ -62,9 +62,12 @@ Haz ping a google por ejemplo **ping 8.8.8.8**
 
 ![](/assets/2020-01-14 20_35_14.jpg)
 
-##Estoy bien conectado a Internet (tengo ping 8.8.8.8) pero no navego ¿cómo es posible?
+##Estoy bien conectado a Internet (tengo ping 8.8.8.8) pero no me resuelve los nombres (o sea hago ping google.es y no contesta) ¿cómo es posible?
 
 Muy fácil, si con IPs navegas pero con URLs no, es que **tienes mal las DNS** haz ipconfig /all y comprueba que tienes las DNS del Gobierno de Aragón 188.244.82.1 y 188.244.82.17, teclea nslookup a ver si te sale bien las DNS.
+
+##Tengo ping google.es pero no navego 
+En ese caso tu ordenador está bien conectado y bien configurado pero algo en el software impide la navegación ¿virus? solución: Formatear el ordenador, consulta [el protocolo](/problemas-que-hago.md).
 
 ##¿Cómo puedo saber si dos dispositivos están conectados?
 

@@ -64,7 +64,7 @@ Haz ping a google por ejemplo **ping 8.8.8.8**
 
 ##Estoy bien conectado a Internet (tengo ping 8.8.8.8) pero no navego ¿cómo es posible?
 
-Muy fácil, si con IPs navegas pero con URLs no, es que **tienes mal las DNS** haz ipconfig /all y comprueba que tienes las DNS del Gobierno de Aragón 188.244.82.1 y 188.244.82.17
+Muy fácil, si con IPs navegas pero con URLs no, es que **tienes mal las DNS** haz ipconfig /all y comprueba que tienes las DNS del Gobierno de Aragón 188.244.82.1 y 188.244.82.17, teclea nslookup a ver si te sale bien las DNS.
 
 ##¿Cómo puedo saber si dos dispositivos están conectados?
 

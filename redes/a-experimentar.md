@@ -21,7 +21,7 @@ Otra manera rápida de averiguarlo es con el comando nslookup que ya vimos en [D
 
 Pues ya que sabes entrar a la ventana de comandos, teclea **tracert y la página que quieras** por ejemplo tracert google.es y te sorprenderás. La primera IP que verás es la de tu router (ver [IP puerta de enlace](/protocolos.md))
 
-Este es el resultado desde el ordenador donde estoy escribiendo (para que veas que no siempre las IP reservadas de un centro son 172.168.1.x en este caso es 4.6.1.x)
+Este es el resultado desde el ordenador del centro donde estoy escribiendo (para que veas que no siempre las IP reservadas de un centro son 192.168.x.x en este caso es 4.6.1.x)
 
 ![](/assets/2020-01-14 20_16_38.jpg)
 

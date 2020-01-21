@@ -1,4 +1,4 @@
-# MÓDULO 5 COFOTAP 
+# MÓDULO 5 COFOTAC
 #RESOLUCIÓN DE PROBLEMAS
 
 Este módulo está pensado para dar unas nociones básicas en hardwre, redes, seguridad y protocolos en resolución de problemas en la infraestructura informática de tu centro.

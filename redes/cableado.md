@@ -61,7 +61,7 @@ Respuesta: **Pues no**, si introduces el extremo suelto en el *master* del teste
 Respuesta: La conexión cableada **siempre** nos va a dar más velocidad, fiabilidad y conexión segura frente a la wifi. La wifi la tenemos que dejar cuando no hay otro remedio (aula con tablets, carro de portátiles, etc...)
 
 ##POE
-Los cables POE (Power Over Internet) son cables entrelazados pero están conectados a un Switch que tiene puertos que además de transmitir los datos, transmiten también la alimentación, de tal manera que el dispositivo destino puede alimentarse con sólo llegar el cable entrelazado (es típico en teléfonos IPs, WebCams...)
+Los cables POE (Power Over Internet) son cables entrelazados pero están conectados a un Switch que tiene puertos que además de transmitir los datos, transmiten también la alimentación, de tal manera que el dispositivo destino puede alimentarse con sólo llegar el cable entrelazado (es típico en teléfonos IPs, WebCams y APs)
 
 ![](/assets/2019-12-25 09_26_08-Window.png)
 *Fuente Ali-express*

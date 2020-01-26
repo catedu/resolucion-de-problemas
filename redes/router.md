@@ -5,6 +5,7 @@ Conecta dos redes diferentes, nuestra LAN con la WAN (Wide Area Network) o sea, 
 Puede ser con una línea telefónica ADSL o con fibra óptica y puede tener también ser punto de acceso Wifi como el router doméstico de la figura
 
 ![](/assets/2019-12-23 10_04_07-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
 Detrás del router tenemos que saber que tenemos:
@@ -15,6 +16,7 @@ Detrás del router tenemos que saber que tenemos:
 * Botón de encendido y apagado y la conexión a la alimentación
 
 ![](/assets/2019-12-23 09_34_05-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
 Es importante saber estos elementos y localizarlos para cualquier problema.
@@ -24,13 +26,15 @@ Es importante saber estos elementos y localizarlos para cualquier problema.
 El principal sospechoso sería el router, hay que comprobar si están encendidos todos los leds del router.
 
 ![](/assets/2019-12-23 09_32_22-Adobe Flash Player 11.png)
+
 *Fuente Movistar manual usuario*
 
  * si alguno está en **rojo** ya nos informa donde está el problema, por ejemplo si el led ADSL/Internet  está en rojo, el problema está en nuestro proveedor (Movistar, Vodafone ... ). Podemos resetear el router a ver si vuelve la conexión.
  * Si están encendidos todos en **verde**, podemos conectar por ejemplo un portátil en uno de las conexiones Eth y comprobar si hay Internet.
  
  ![](/assets/2019-12-23 09_30_42-Adobe Flash Player 11.png)
- *Fuente Movistar manual usuario*
+
+*Fuente Movistar manual usuario*
  
    * Si no hay Internet, el problema no es el router sino el siguiente elemento de abajo de la cascada de nuestra red: El switch o el cableado entre el switch y el router.
    * Si hay Internet, el fallo es el router. Podemos resetear el router a ver si vuelve la conexión.
@@ -42,13 +46,13 @@ El principal sospechoso sería el router, hay que comprobar si están encendidos
 Con un sistema operativo llamado **firmware** (software almacenado en los chips de un dispositivo) funcionando y accesible mediante una aplicación web. 
 
 <hr />
-**El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU** no obstante consideramos que en tu formación COFOTAP conozcas de la existencia de la configuración del router por la importancia que tiene en la LAN de tu centro.
+**OJO : El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU** no obstante consideramos que en tu formación COFOTAC conozcas de la existencia de la configuración del router por la importancia que tiene en la LAN de tu centro.
 <hr />
 Para acceder a la aplicación hay que teclear [la IP puerta de enlace](/redes/ips.md) en un navegador:
 
 ![](/assets/2019-12-23 09_36_17-Nueva pestaña.png)
 
-y **CADA MODELO DE ROUTER TIENE UNA APLICACION WEB DISTINTA** aquí por ejemplo vamos a enseñar capturas del modelo de router Movistar:
+y **CADA MODELO DE ROUTER TIENE UNA APLICACION WEB DISTINTA** aquí por ejemplo vamos a enseñar capturas del modelo del router Movistar:
 
 ![](/assets/2019-12-23 09_41_42-Adobe Flash Player 11.png)
 
@@ -60,7 +64,7 @@ Para acceder se pide un usuario y contraseña
 
 *Fuente Movistar manual usuario*
 
->Es curioso saber que el router es siempre ignorado como elemento crítico de seguridad, esto ha provocado muchos problemas. Una vez en una PYME de un amigo mio, se le infectaba cualquier PC que se conectaba en la red LAN de su pequeña oficina. Al final descubrí que el virus estaba en su router pues tenía de contraseña : 1234 ¿la conocerán los hackers rusos? fue cambiarla y actualizar el firmware y problema resuelto. ¿Y tú? ¿has cambiado la contraseña de tu router y tienes actualizado su firmware o llevas la misma de fábrica? 🤢
+>Es curioso saber que el router es siempre ignorado como elemento crítico de seguridad, esto ha provocado muchos problemas. Una vez en una PYME de un amigo mio, se le infectaba cualquier PC que se conectaba en la red LAN de su pequeña oficina. Al final descubrí que el virus estaba en su router pues tenía de contraseña : 1234 ¿la conocerán los hackers rusos? fue cambiarla y actualizar el firmware y problema resuelto. ¿Y tú? ¿has cambiado la contraseña de tu router de tu casa y tienes actualizado su firmware o llevas la misma de fábrica? 🤨🤔😰🤢
 
 
 Entrar en la aplicación Web nos permite por ejemplo [cambiar la puerta de enlace, las DNS](/redes/ips.md) de tu red

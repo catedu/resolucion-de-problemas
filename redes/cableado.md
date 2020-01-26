@@ -1,5 +1,4 @@
 #Cableado
-
 ##Cable de par entrelazado
 
 Este cable está formado por 4 pares de hilos entrelazados, según su calidad (sobre todo por la cantidad de vueltas para evitar interferencias) se divide en diferentes categorías:
@@ -15,7 +14,7 @@ Este cable está formado por 4 pares de hilos entrelazados, según su calidad (s
 >PROBLEMA : En mi centro Internet va lento y tengo un cableado Cat5 ¿tengo que hacer una inversión de cambiar todo el cableado?
 
 La respuesta es que seguramente NO ES NECESARIO pues de nada sirve cambiar a una categoría superior si la conexión de Internet es lenta, los switch no soportan esas velocidades y lo más comúm: Las tarjetas de red no aguantan velocidades por encima de los 100Mps. Además van a salir nuevos protocolos que permitirán velocidades de Gbps con cableado Cat5.
-Hemos visto centros educativos que han hecho un importante esfuerzo económico de cambiar todo el cableado y la velocidad seguía siendo pésima. Al final era porque tenían una [Botnet](/seguridad.md). 
+Recuerdo un centro, de cuyo nombre no me quiero acordar, que realizó un importante esfuerzo económico de cambiar todo el cableado y la velocidad seguía siendo pésima. Al final era porque tenían una [Botnet](/seguridad.md). 
 Para estas cuestiones es mejor contar con el asesoramiento del servicio de informática del [Departamento](/problemas-que-hago.md).
 
 No se tienen que hacer cableados muy largos pues la señal se atenúa, cuanto más largo más probabilidad hay que algunos paquetes de información sean erróneos y por lo tanto ralentiza la conexión. El máximo es 100m.

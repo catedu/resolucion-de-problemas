@@ -1,7 +1,7 @@
 #Protocolos
 Digamos que son las reglas del lenguaje de los paquetes de información, hay muchos protocolos, los comunes son:
 
-* **HTTP** es el protocolo de las páginas Web, [se inventó en el CERN](https://es.wikipedia.org/wiki/Historia_de_la_World_Wide_Web) para publicar información.
+* **HTTP** es el protocolo de las páginas Web, [se inventó en el CERN](https://es.wikipedia.org/wiki/Historia_de_la_World_Wide_Web) para publicar información entre científicos.
 * **HTTPS** es el mismo que en anterior pero añadiendo una seguridad de su origen. **Nunca tenemos que navegar en una página web importante por ejemplo un banco o tienda virtual que no sea en su inicio HTTPS** (o el símbolo del candado en el navegador) de lo contrario es una página web falsa o fishing que nos quiere robar las contraseñas.
 * **FTP** es el protocolo para la transferencia de ficheros.
 * **SMTP POP3** el de los correos electrónicos.

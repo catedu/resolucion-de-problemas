@@ -19,6 +19,7 @@ En la figura siguiente puedes ver que hay tres switch para tres plantas pero no 
  Ya de paso puedes ver los símbolos comunes del Router (círculo con cuatro flechas que apuntan al centro) y el de Switch (cuadrado con cuatro flechas paralelas).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/VLAN.svg/615px-VLAN.svg.png)
+
 *Fuente [Wikipedia](https://es.m.wikipedia.org/wiki/Archivo:VLAN.svg)*
 
 

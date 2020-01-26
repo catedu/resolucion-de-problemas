@@ -77,11 +77,12 @@ Y el esquema era el siguiente (donde el Router de la derecha es cualquier dispos
 Luego si en tu centro ves un AP con esta conexión es porque el cable que sale de la caja es POE:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ZyXEL_ZyAIR_G-1000_and_D-Link_DWL-P50_20060829_2.jpg/320px-ZyXEL_ZyAIR_G-1000_and_D-Link_DWL-P50_20060829_2.jpg)
+
 *Fuente Wikipedia*
 
 OJO fíjate que NO SE CONECTA DIRECTAMENTE sino a través del separador D-Link. 
 
->Hay dispositivos que en la conexión hembra RJ45 pone Data o NonPOE y otros que pone Data+Power o POE en la foto anterior el AP es NonPOE por lo tanto necesita el separador.
+>Hay dispositivos que en la conexión hembra RJ45 pone Data o NonPOE y otros que pone Data+Power o POE en la foto anterior el AP Punto de acceso es NonPOE por lo tanto necesita el separador, es fácil saber que es NonPOE pues tiene un conector de alimentación (cable negro de la foto) si fues POE no lo tendría.
 
 **¿Por qué tengo que saber esto?** Porque si conectas un cable POE a un dispositivo no POE **lo puedes estropear** pues estás conectando unos voltios a la tarjeta red que no está preparado. 
 

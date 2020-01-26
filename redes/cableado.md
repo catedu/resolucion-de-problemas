@@ -54,7 +54,7 @@ En el siguiente vídeo explica cómo se testea desde el *minuto 6* (pasa del tes
 
 >PREGUNTA: ¿Se puede comprobar un cable con el tester teniendo el otro extremo conectado a una *"cosa"* (router, switcht, AP, PC...) ?
 
-Respuesta: Pues no, pues si introduces el extremo suelto en el *master* del tester que envía la señal, te cargas esa *"cosa"*. En resumen: si tienes que comprobar un cable, asegúrate que tenga los dos extremos desconectados.
+Respuesta: **Pues no**, pues si introduces el extremo suelto en el *master* del tester que envía la señal, te cargas esa *"cosa"*. En resumen: si tienes que comprobar un cable, asegúrate que tenga los dos extremos desconectados.
 
 >PREGUNTA: ¿Qué conexión es mejor la conexión por cable o la conexión por Wifi?
 

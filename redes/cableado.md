@@ -95,6 +95,6 @@ Luego ojo con este símbolo:
 <iframe src="https://giphy.com/embed/14jqVt44KAwNbi" width="480" height="291" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/home-theater-protector-14jqVt44KAwNbi">via GIPHY</a></p>
 
 ##Fibra óptica
-Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son fáciles como en el RJ45.
+Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son tan fáciles como en el RJ45.
 
-De momento sólo se utiliza de entrada en el router en las localidades donde exista. En la LAN se trabaja con cable trenzado.
+De momento sólo se utiliza a nivel de WAN es decir de entrada en el router en las localidades donde llega la fibra óptica. En la LAN se trabaja con cable trenzado.

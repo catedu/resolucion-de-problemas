@@ -41,7 +41,7 @@ También ocurre esto entre tu router y el servidor de tu proveedor de telefónia
 
 *Fuente elaboración propia con imágenes CC de Wikipedia*
 
->INVESTIGA UN POCO: Entra en dos equipos diferentes de tu centro (o de tu casa, por ejemplo un ordenador y el móvil pero ojo, el móvil conectado a la misma LAN que el ordenador (o sea por Wifi on con datos móviles)) y a la vez a la página [ipleak.net](https://ipleak.net/) en los dos equipos ¿cómo es posible que están navegando con la misma IP?
+>INVESTIGA UN POCO: Entra en dos equipos diferentes de tu centro (o de tu casa, por ejemplo un ordenador y el móvil pero ojo, el móvil conectado a la misma LAN que el ordenador (o sea por Wifi no con datos móviles)) y a la vez a la página [ipleak.net](https://ipleak.net/) en los dos equipos ¿cómo es posible que están navegando con la misma IP?
 >Respuesta: Esto es debido a que las IPs de tu LAN son reservadas y navegan con la misma IP pública que es el mismo servidor de Internet
 
 ##La IP del router, puerta de enlace, acceso o Gateway

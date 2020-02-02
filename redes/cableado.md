@@ -69,7 +69,7 @@ Los cables POE (Power Over Internet) son cables entrelazados pero están conecta
 Esto nos facilita la instalación de estos dispositivos pues sólo hay que llevar un cable entrelazado. En los centros que no tenían switch con POE se repartían estos dispositivos para crear un cable POE: *(un mezclador data+power y un separador data+power marca D-Link)* 
 ![](/assets/2019-12-25 09_30_37-Window.png)
 
-Y el esquema era el siguiente (donde el Router de la derecha es cualquier dispositivo que por cuestiones físicas no se puede llevar un cable de alimentación):
+Y el esquema era el siguiente, donde el Router blanco de la derecha es cualquier dispositivo que por cuestiones físicas no se puede instalar hasta allí un cable de alimentación por que está en un lugar difícil, en el techo etc..:
 
 ![](/assets/poe_alimentacion_por_internet.jpg)
 *Fuente https://www.instructables.com/*

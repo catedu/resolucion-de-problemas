@@ -52,7 +52,7 @@ O sea que las IPs de esa subred de ese centro van desde la 172.168.1.0 hasta la 
 
 >Nota: no se puede utilizar la 172.168.1.255 pues es la dirección especial *Broadcast*.
 
-Si a otro equipo, por ejemplo **ordenador PROFESOR IP 172.168.2.15 ** entonces pertenece a otra LAN es decir **no se pueden ver entre ellos**. Y a otro equipo **JEFATURA IP 172.168.3.6** tampoco se verán entre ellos. Es lo que se llama crear subredes **VLAN**.
+Si a otro equipo, por ejemplo **ordenador PROFESOR IP 172.168.2.15 ** entonces pertenece a otra LAN es decir **no se pueden ver entre ellos PROFESOR-ALUMNO**. Y a otro equipo **JEFATURA IP 172.168.3.6** tampoco se verán entre ellos ALUMNO-PROFESOR-JEFATURA. Es lo que se llama crear subredes **VLAN**.
 
 Un ejemplo de arquitectura de red sería la siguiente
 

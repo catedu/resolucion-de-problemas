@@ -31,7 +31,9 @@ También ocurre esto entre tu router y el servidor de tu proveedor de telefónia
 
 * La IP que muestra nuestro router a nuestra LAN que la podemos definir nosotros, es fija, llamada **puerta de enlace**
 * Una IP del router al servidor de Internet que la define el servidor de Internet por su propio protocolo DHCP, al ser una IP temporal, entonces se llama **IP dinámica**..
-* La que navega el servidor de Internet y la que ve el mundo. Es la **IP Pública** y esta geolocalizada. ¿Cual es? Pues por ejemplo lo puedes averiguar en [https://ipleak.net](https://ipleak.net/), como puedes ver **todo lo que hacemos en Internet deja un rastro**. 
+* La que navega el servidor de Internet y la que ve el mundo. Es la **IP Pública** y esta geolocalizada. ¿Cual es? Pues por ejemplo lo puedes averiguar en [https://ipleak.net](https://ipleak.net/)
+* Esta información **es pública** y por ejemplo cuando visitas una página web, los anuncios pueden personalizar su contenido.
+* Como puedes ver **todo lo que hacemos en Internet deja un rastro  **. 
 
 >Investiga: Entra en [https://ipleak.net](https://ipleak.net/) cuando estés por el ámbito rural (aunque sea con tu móvil) verás que no coincide con tu situación real. Yo por ejemplo estoy ahora en Calamocha y me dice que navego con 188.244.80.254 de Zaragoza. Esto es debido a que mi servidor de Internet está en los servidores de AST de Pignatelli y tienen esa IP.
 

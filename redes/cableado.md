@@ -52,7 +52,7 @@ En el siguiente vídeo explica cómo se testea desde el *minuto 6* (pasa del tes
 
 {% youtube %}https://www.youtube.com/watch?v=heyGMyru06c{% endyoutube %}
 
->PREGUNTA: ¿Se puede comprobar un cable con el tester teniendo el otro extremo conectado a una *"cosa"* (router, switcht, AP, PC...) ?
+>PREGUNTA: ¿Se puede comprobar un cable con el tester teniendo un extremo en el tester y el otro extremo conectado a una *"cosa"* (router, switcht, AP, PC...) ?
 
 Respuesta: **Pues no**, si introduces el extremo suelto en el *master* del tester que envía la señal (inyecta voltios), te cargas esa *"cosa"* en el otro extremo. En resumen: si tienes que comprobar un cable, asegúrate que tenga los dos extremos desconectados.
 

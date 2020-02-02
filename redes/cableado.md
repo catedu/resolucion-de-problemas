@@ -9,11 +9,11 @@ Este cable está formado por 4 pares de hilos entrelazados, según su calidad (s
 * **Cat 6a** pueden aguantar 10000 Mbps = 10Gbps. 
 * **Cat 7** son los que se utilizan 10 gigabit ethernet.
 * **Cat 7A** igual pero con una frecuencia de 1000MHz
-* ** Cat 8** compatible con frecuencias 2000 MHz y 40 Gbps.
+* **Cat 8** compatible con frecuencias 2000 MHz y 40 Gbps.
 
 >PROBLEMA : En mi centro Internet va lento y tengo un cableado Cat5 ¿tengo que hacer una inversión de cambiar todo el cableado?
 
-La respuesta es que seguramente NO ES NECESARIO pues de nada sirve cambiar a una categoría superior si la conexión de Internet es lenta, los switch no soportan esas velocidades y lo más comúm: Las tarjetas de red no aguantan velocidades por encima de los 100Mps. Además van a salir nuevos protocolos que permitirán velocidades de Gbps con cableado Cat5.
+La respuesta es que seguramente NO ES NECESARIO pues de nada sirve cambiar a una categoría superior si la conexión de Internet es lenta, los switch no soportan esas velocidades y lo más común: Las tarjetas de red no aguantan velocidades por encima de los 100Mps. Además van a salir nuevos protocolos que permitirán velocidades de Gbps con cableado Cat5.
 
 >Recuerdo un centro, de cuyo nombre no me quiero acordar, que realizó un importante esfuerzo económico de cambiar todo el cableado y la velocidad seguía siendo pésima. Al final era porque tenían una [Botnet](/seguridad.md).
 
@@ -28,7 +28,7 @@ Es la interfaz que conecta nuestro cableado.
 
 *Fuente [Wikipedia](https://es.wikipedia.org/wiki/RJ-45)*
 
-**No podemos conectar** dos ordenadores con un cable normal o directo, sino es a través de un Switch o Hub, la razón es que los cables se tienen que *cruzar* es decir el cable de transmisión tiene que ir al de recepción del otro y viceversa. Esto lo hace el Switch o Hub. Hay cables especiales llamados *cruzados* que ya están conectados el RJ45 de forma cruzada y sólo sirven para este propósito.
+**No podemos conectar** dos ordenadores con un cable normal o directo, sino es a través de un Switch o Hub, la razón es que los cables se tienen que *cruzar* es decir el pin de transmisión tiene que ir al de recepción del otro y viceversa. Esto lo hace el Switch o Hub. Hay cables especiales llamados *cruzados* que ya están conectados el RJ45 de forma cruzada y sólo sirven para este propósito.
 
 Suele ser un elemento muy castigado si el PC donde está conectado no está fijo o está en una mesa con ruedas luego suele ser un punto crítico ante problemas de conexión:
 

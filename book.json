@@ -17,7 +17,7 @@
             "filename": "./FOOTER.md"
         },
         "image-captions": {
-            "caption": "Imagen - _CAPTION_"
+            "caption": "Fuente - _CAPTION_"
         },
         "edit-link": {
             "base": "https://github.com/catedu/resolucion-de-problemas/edit/master",

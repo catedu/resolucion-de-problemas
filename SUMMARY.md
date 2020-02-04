@@ -18,3 +18,6 @@
 * [No estas sólo](no-estas-solo.md)
 * [Memes](memes.md)
 
+---
+
+* [Créditos](creditos.md)

@@ -38,7 +38,7 @@ En el caso de que haciendo estas simples comprobaciones sigue sin funcionar, [ll
 Con un sistema operativo llamado **firmware** (software almacenado en los chips de un dispositivo) funcionando y accesible mediante una aplicación web. 
 
 >**danger**
->**OJO : El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU**. No obstante, consideramos importante que, como COFOTAC, conozcas istela exncia de la configuración del router por la importancia que tiene en la LAN de tu centro.
+>**OJO : El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU**. No obstante, consideramos importante que, como COFOTAC, conozcas la existencia de la configuración del router por la importancia que tiene en la LAN de tu centro y por los conceptos implícitos en la configuración de tu red.
 
 Para acceder a la aplicación hay que teclear [la IP puerta de enlace](/redes/ips.md) en un navegador:
 

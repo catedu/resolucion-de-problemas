@@ -65,8 +65,9 @@ Un ejemplo de arquitectura de red sería la siguiente
 ![Elaboración propia con imágenes CC de Wikipedia](/assets/2020-01-14 18_57_48.jpg)
 
 >**info**
->Podrías pensar que algún alumno *listo* simplemente cambiando la IP a por ejemplo 172.168.3.24 podría acceder a jefatura 172.168.3.6, pero si el switch que le tiene que dar acceso (los Ubiquitis en el caso de la figura anterior) pertenecen a la red 172.168.1.x no puede, ese ordenador hacker se queda aislado, ni siquiera podría navegar. 
-Pero si es *muy listo* puede coger un cable de red RJ45 y conectarse a la red cableada, luego **SI QUE PUEDE** lo mejor es que los ordenadores de profesores y administración no compartan nada sin contraseña que eso lo permite Windows, si tuvieran Linux no habría ese problema.
+>Podrías pensar que algún alumno *listo* 👿 simplemente cambiando la IP a por ejemplo 172.168.3.24 podría acceder a jefatura 172.168.3.6, pero si el switch que le tiene que dar acceso (los Ubiquitis en el caso de la figura anterior) pertenecen a la red 172.168.1.x no puede, ese ordenador hacker se queda aislado, ni siquiera podría navegar. 
+
+>Pero si es *muy listo* 😈😈 puede coger un cable de red RJ45 y conectarse a la red cableada, luego **SI QUE PUEDE**. Luego: los ordenadores de profesores y administración que no compartan nada sin contraseña (eso lo permite Windows, si tuvieran Linux 🐧no habría ese problema).
 
 #### IP estática - Máscara de red - Tipo B
 

@@ -83,8 +83,9 @@ Hay programas como [Wireless Network Watcher](https://www.nirsoft.net/utils/wire
 
 ![](https://www.nirsoft.net/utils/wnetwatcher.gif)
 
->¿A qué esperas a experimentar los equipos que hay contectados ahora mismos?
+![](/assets/2020-03-24 10_44_58.jpg)
 
+*fuente: elaboración propia*
 
 
 

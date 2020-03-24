@@ -65,7 +65,8 @@ Un ejemplo de arquitectura de red sería la siguiente
 ![Elaboración propia con imágenes CC de Wikipedia](/assets/2020-01-14 18_57_48.jpg)
 
 >**info**
->Podrías pensar que algún alumno *listo* simplemente cambiando la IP a por ejemplo 172.168.3.24 podría acceder a jefatura 172.168.3.6, pero si el switch que le tiene que dar acceso (los Ubiquitis en el caso de la figura anterior) pertenecen a la red 172.168.1.x no puede, ese ordenador hacker se queda aislado, ni siquiera podría navegar.
+>Podrías pensar que algún alumno *listo* simplemente cambiando la IP a por ejemplo 172.168.3.24 podría acceder a jefatura 172.168.3.6, pero si el switch que le tiene que dar acceso (los Ubiquitis en el caso de la figura anterior) pertenecen a la red 172.168.1.x no puede, ese ordenador hacker se queda aislado, ni siquiera podría navegar. 
+Pero si es *muy listo* puede coger un cable de red RJ45 y conectarse a la red cableada, luego **SI QUE PUEDE** lo mejor es que los ordenadores de profesores y administración no compartan nada sin contraseña que eso lo permite Windows, si tuvieran Linux no habría ese problema.
 
 #### IP estática - Máscara de red - Tipo B
 
@@ -85,5 +86,6 @@ Es la IP del router, es decir, el equipo tiene que saber qué equipo de su LAN e
 #Registra tus IPs
 Como responsable de los medios informáticos es **importante** que registres qué IP tiene cada equipo de tu centro (o rangos, por ejemplo de las 172.30.7.1 a 50 es la aula de informática) no lo hagas en papel pues suele ser información muy "viva". 
 
->**Pfff eso es mucho curro...** bueno pues ves una tarde a tu centro, enciende TODOS los chismes de tu centro, ejecuta [Wireless Network Watcher](https://www.nirsoft.net/utils/wireless_network_watcher.html) y en View-Htlm Report el resultado de la tabla la seleccionas y la copias y pegas en una hoja de cálculo. Faena hecha !!
+>**info**
+*Pfff eso es mucho curro...* bueno pues ves una tarde a tu centro, enciende TODOS los chismes de tu centro, ejecuta [Wireless Network Watcher](https://www.nirsoft.net/utils/wireless_network_watcher.html) y en View-Htlm Report el resultado de la tabla la seleccionas y la copias y pegas en una hoja de cálculo. Faena hecha !!
 

@@ -81,3 +81,9 @@ Como te puedes imaginar existe la Tipo A con máscara 255.0.0.0 para un número 
 ##IP ESTÁTICA - PUERTA DE ENLACE o GATEWAY
 
 Es la IP del router, es decir, el equipo tiene que saber qué equipo de su LAN es el que le da acceso a la WAN exterior, o sea Internet. Normalmente suele ser 172.168.1.1 ver [Router](/redes/router.md)
+
+#Registra tus IPs
+Como responsable de los medios informáticos es **importante** que registres qué IP tiene cada equipo de tu centro (o rangos, por ejemplo de las 172.30.7.1 a 50 es la aula de informática) no lo hagas en papel pues suele ser información muy "viva". 
+
+>**Pfff eso es mucho curro...** bueno pues ves una tarde a tu centro, enciende TODOS los chismes de tu centro, ejecuta [Wireless Network Watcher](https://www.nirsoft.net/utils/wireless_network_watcher.html) y en View-Htlm Report el resultado de la tabla la seleccionas y la copias y pegas en una hoja de cálculo. Faena hecha !!
+

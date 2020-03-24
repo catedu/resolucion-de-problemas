@@ -77,6 +77,15 @@ Esto es muy útil por ejemplo hacer una IP a la impresora para comprobar que la 
 
 ![](/assets/2020-01-14 20_33_36.jpg)
 
+##¿Cómo sé si alguien está "pirateando" la wifi?
+
+Hay programas como [Wireless Network Watcher](https://www.nirsoft.net/utils/wireless_network_watcher.html) (es portable) que te enseña qué equipos tienes en tu red, y como seguramente nos has hecho caso en [Retistra tus IPs](/redes/ips.md) entonces puedes detectar al intruso, y es totalmente denunciable.
+
+![](https://www.nirsoft.net/utils/wnetwatcher.gif)
+
+>¿A qué esperas a experimentar los equipos que hay contectados ahora mismos?
+
+
 
 
 

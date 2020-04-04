@@ -88,5 +88,5 @@ Es la IP del router, es decir, el equipo tiene que saber qué equipo de su LAN e
 Como responsable de los medios informáticos es **importante** que registres qué IP tiene cada equipo de tu centro (o rangos, por ejemplo de las 172.30.7.1 a 50 es la aula de informática) no lo hagas en papel pues suele ser información muy "viva". 
 
 >**info**
-*Pfff eso es mucho curro...* bueno pues ves una tarde a tu centro, enciende TODOS los chismes de tu centro, ejecuta [Wireless Network Watcher](https://www.nirsoft.net/utils/wireless_network_watcher.html) y en View-Htlm Report el resultado de la tabla la seleccionas y la copias y pegas en una hoja de cálculo. Faena hecha !!
+*Pfff eso es mucho curro...* bueno pues asegúrate que **TODOS** los chismes de tu centro están encendidos y ejecuta [Wireless Network Watcher](https://www.nirsoft.net/utils/wireless_network_watcher.html) y en View-Htlm Report el resultado de la tabla la seleccionas y la copias y pegas en una hoja de cálculo. Faena hecha !!
 

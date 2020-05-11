@@ -64,7 +64,7 @@ O cambiar el nombre de la red wifi y su contraseña si es un router con wifi.
 ![Movistar manual usuario](/assets/2019-12-23 10_00_31-Adobe Flash Player 11.png)
 
 
-Es importante cambiar la **SSID** o nombre de red y su **contraseña**, y la encriptación que sea **WPA-PSK (TKIP)** de los que viene por defecto, para evitar accesos no deseados. 
+Es importante cambiar la **SSID** o nombre de red y su **contraseña**, y la encriptación que sea **WPA2-PSK (TKIP)** ver [Wifi](/redes/wifi.md)
 
 >**info**
 >Existen muchas aplicaciones para piratear Wifis que simplemente tienen los valores por defecto de los routers inalámbricos. El servicio CAU de tu centro ya ha tenido esta precaución ¿y tú? ¿en tu casa? ¿tienes el mismo nombre de red y contraseña Wifi en tu router que cuando lo comprastes? 🤢🤢🤢🤢
@@ -78,7 +78,7 @@ Y seleccionar el fichero, teniendo en cuenta que mientras estamos actualizando e
 ![Movistar manual usuario](/assets/2019-12-23 10_19_30-Adobe Flash Player 11.png)
 
 >**info**
->Hoy en día los Routers modernos simplememente se actualizan reseteándolos.
+>Hoy en día los Routers modernos se actualiza en remoto, pero no dejan de ser unos ordenadores, luego **es bueno reiniciarlos de vez en cuando**.
 
 En esta aplicación web también se pueden **abrir puertos** PERO ESTO ES UNA PUERTA ABIERTA AL EXTERIOR con el consecuente peligro de seguridad. En la figura se puede ver que se ha abierto al equipo con la IP 192.168.1.33 diferentes puertos seguramente para descargas punto a punto P2P tipo Torrent, eMule y similares.
 

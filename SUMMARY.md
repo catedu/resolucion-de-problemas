@@ -10,6 +10,7 @@
   * [Protocolos](protocolos.md)
   * [IPs](redes/ips.md)
   * [DNS](dns.md)
+  * [Wifi](redes/wifi.md)
   * [A experimentar](redes/a-experimentar.md)
 * [Seguridad](seguridad.md)
   * [Peligros](peligros.md)

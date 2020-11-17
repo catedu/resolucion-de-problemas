@@ -6,7 +6,7 @@ Este cable está formado por 4 pares de hilos entrelazados, según su calidad (s
 * **Cat 5** es muy vieja, hasta 100 Mbps.
 * **Cat 5e** es la más común, soporta 1000 Mbps.
 * **Cat 6** trabajan bien los 1000 Mbps.
-* **Cat 6a** pueden aguantar 10000 Mbps = 10Gbps. 
+* **Cat 6a** pueden aguantar 10000 Mbps = 10Gbps.
 * **Cat 7** son los que se utilizan 10 gigabit ethernet.
 * **Cat 7A** igual pero con una frecuencia de 1000MHz
 * **Cat 8** compatible con frecuencias 2000 MHz y 40 Gbps.
@@ -44,13 +44,11 @@ Si quieres, son útiles los *comprobadores de cable* que por menos de 10€ se p
 
 ![](/assets/2019-12-22 09_54_21-Window.png)
 
-Metes los dos extremos (uno *master* que envía la señal y otro *slave* que recoge la seña y lo visualiza en forma de luces) y tienen que encenderse las luces en su mismo órden tanto en un extremo como en el otro 1-1 2-2 3-3 ... 8-8 si hay algún fallo ya podemos desechar ese cable.
+Metes los dos extremos (uno *master* que envía la señal y otro *slave* que recoge la señal y lo visualiza en forma de luces) y tienen que encenderse las luces en su mismo órden tanto en un extremo como en el otro 1-1 2-2 3-3 ... 8-8 si hay algún fallo ya podemos desechar ese cable. En el siguiente vídeo explica cómo se testea.
 
-En el siguiente vídeo explica cómo se testea desde el *minuto 6* (pasa del tester profesional que hay en el minuto 9)
+>Si quieres hacer tú mismo el cables hay muchos vídeos, cómprate una **crimpadora** y es seguir [un criterio de colores](https://www.xatakamovil.com/conectividad/cables-de-red-guia-para-montar-nuestro-propio-cable).  
 
->El mismo vídeo enseña desde el minuto 0 al 6 cómo hacer tú mismo cables RJ45 si eres un friki.
-
-{% youtube %}https://www.youtube.com/watch?v=heyGMyru06c{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=uvgx4Vio0WE{% endyoutube %}
 
 >PREGUNTA: ¿Se puede comprobar un cable con el tester teniendo un extremo en el tester y el otro extremo conectado a una *"cosa"* (router, switcht, AP, PC...) ?
 
@@ -66,7 +64,7 @@ Los cables POE (Power Over Internet) son cables entrelazados pero están conecta
 ![](/assets/2019-12-25 09_26_08-Window.png)
 *Fuente Ali-express*
 
-Esto nos facilita la instalación de estos dispositivos pues sólo hay que llevar un cable entrelazado. En los centros que no tenían switch con POE se repartían estos dispositivos para crear un cable POE: *(un mezclador data+power y un separador data+power marca D-Link)* 
+Esto nos facilita la instalación de estos dispositivos pues sólo hay que llevar un cable entrelazado. En los centros que no tenían switch con POE se repartían estos dispositivos para crear un cable POE: *(un mezclador data+power y un separador data+power marca D-Link)*
 ![](/assets/2019-12-25 09_30_37-Window.png)
 
 Y el esquema era el siguiente, donde el Router blanco de la derecha es cualquier dispositivo que por cuestiones físicas no se puede instalar hasta allí un cable de alimentación por que está en un lugar difícil, en el techo etc..:
@@ -80,11 +78,11 @@ Luego si en tu centro ves un AP con esta conexión es porque el cable que sale d
 
 *Fuente Wikipedia*
 
-OJO fíjate que NO SE CONECTA DIRECTAMENTE sino a través del separador D-Link. 
+OJO fíjate que NO SE CONECTA DIRECTAMENTE sino a través del separador D-Link.
 
 >Hay dispositivos que en la conexión hembra RJ45 pone Data o NonPOE y otros que pone Data+Power o POE en la foto anterior el AP Punto de acceso es NonPOE por lo tanto necesita el separador, es fácil saber que es NonPOE pues tiene un conector de alimentación (cable negro de la foto) si fues POE no lo tendría.
 
-**¿Por qué tengo que saber esto?** Porque si conectas un cable POE a un dispositivo no POE **lo puedes estropear** pues estás conectando unos voltios a la tarjeta red que no está preparado. 
+**¿Por qué tengo que saber esto?** Porque si conectas un cable POE a un dispositivo no POE **lo puedes estropear** pues estás conectando unos voltios a la tarjeta red que no está preparado.
 
 >Puedes hacer un desastre si conectas un portátil a un cable POE, o peor todavía: simplemente hacer de manitas en el Switch de conserjería e intercambias cables en los puertos del Switch, y no te das cuenta que unos son POE y otros NonPOE.
 
@@ -92,9 +90,10 @@ Luego ojo con este símbolo:
 
 ![](/assets/2019-12-25 10_18_13-Window.png)
 
-<iframe src="https://giphy.com/embed/14jqVt44KAwNbi" width="480" height="291" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/home-theater-protector-14jqVt44KAwNbi">via GIPHY</a></p>
+![](/assets/enchufe(2).png)
 
 ##Fibra óptica
+
 Es un cableado formado por filamentos transparentes donde viaja la luz por medio de rebotes entre las paredes. Al ser luz, se puede trabajar con frecuencias mucho mayores sin casi pérdidas por lo que aumenta la velocidad de transmisión. El problema es que las conexiones no son tan fáciles como en el RJ45.
 
 De momento sólo se utiliza a nivel de WAN es decir de entrada en el router en las localidades donde llega la fibra óptica. En la LAN se trabaja con cable trenzado.

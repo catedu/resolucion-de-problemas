@@ -6,8 +6,25 @@ A nivel virtual existen dos grupos de **Edmodo** de coordinadores de Medios Info
 
 Para poder participar, regístrate en Edmodo y ponte [en contacto con CATEDU](http://web.catedu.es/webcatedu/index.php/destacados/41-prueba) pidiendo participar en el grupo de Edmodo Primaria o Secundaria indicando tu correo electrónico que has utilizado para registrarte en Edmodo.
 
+![](/assets/2020-02-02 13_21_00-Clipboard.png)
+
 ## ¿Qué lio de nombres?
 
-Antiguamente con esto de la TIC se creó la figura del **Coordinador Ramón y Cajal** con un perfil muy técnico. Luego, ha medida que las demandas han pasado de técnicas a pedagógicas, se ha ido pasando por varios nombres: **Coordinador TIC = Tecnologías de Informática y Comunicación, Coordinador TAC = Tecnología del Aprendizaje y Comunicación, Coordinadores MIA = Medios Informáticos y Audivisuales, Coordinador COFOTAP...** éste último utilizado en Aragón pero apostamos por COFOTAC que es el extendido a nivel nacional para evitar malentendidos.
+Los "chispas" de los centros educativos hemos pasado por diferentes nombres (los años son aproximados):
 
-![](/assets/2020-02-02 13_21_00-Clipboard.png)
+* 1992 **Coordinadores aula Atenea y Mercurio** responable de las aulas donde estaban los PCs IBM y la sala de medios audivisuales (reproductores cinta VHS, tocadiscos...).
+* 2000 **Coordinador TIC** TIC = Tecnologías de Informática y Comunicación
+* 2002 **Coordinador Ramón y Cajal** con un perfil muy técnico, Apollados en los CPRs con el programa PIZARRA DIGITAL con las siguientes figuras:
+  * **Asesor TIC** asesor del CPR.
+  * **Técnico informático** con una relación laboral de beca con el Departamento, perfil sólo técnico.
+  * **Colaborador TIC** un docente con atribución de funciones en el CPR para apoyar dentro del aula en el manejo de las TIC.
+* 2012 **Coordinador TAC** TAC = Tecnología del Aprendizaje y Comunicación
+* 2013 **Coordinadores MIA** MIA = Medios Informáticos y Audivisuales
+* 2014 **Coordinadores COFOTAC** que se sigue utiliznado en el resto de CCAA.
+* 2015 **Coordinador COFOTAP** TAP Tecnologías del aprendizaje y del aponderamiento.
+
+En fin ... nos pueden pintar de muchos colores ...
+
+![](/assets/mess.jpg)
+
+<span>Photo by <a href="https://unsplash.com/@melissamj?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">melissa mjoen</a> on <a href="https://unsplash.com/s/photos/mess?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

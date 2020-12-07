@@ -4,7 +4,7 @@ En **AULARAGON** tenemos un curso exclusivo para esta temática
 
 Aquí tienes el libro de contenidos para que puedas darle una ojeada
 
-https://catedu.gitbooks.io/convivencia-segura-en-la-red/content/
+https://catedu.github.io/convivencia-segura-en-la-red/
 
 * MÓDULO I: **IDENTIDAD DIGITAL**
  * Privacidad e identidad digital.

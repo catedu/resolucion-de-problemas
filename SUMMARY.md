@@ -12,11 +12,16 @@
   * [DNS](dns.md)
   * [Wifi](redes/wifi.md)
   * [A experimentar](redes/a-experimentar.md)
+
+  <!--
+
 * [Seguridad](seguridad.md)
   * [Peligros](peligros.md)
   * [Recursos](recursos.md)
   * [Para saber +](para-saber-+.md)
   * [Control parental](control-parental.md)
+
+  -->
 * [Problemas ¿Qué hago?](problemas-que-hago.md)
 * [No estas sólo](no-estas-solo.md)
 * [Memes](memes.md)
@@ -24,4 +29,3 @@
 ---
 
 * [Créditos](creditos.md)
-

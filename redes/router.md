@@ -1,6 +1,6 @@
 ##Router
 
-Conecta dos redes diferentes, nuestra LAN con la WAN (Wide Area Network) o sea, con Internet. 
+Conecta dos redes diferentes, nuestra LAN con la WAN (Wide Area Network) o sea, con Internet.
 
 Puede ser con una línea telefónica ADSL o con fibra óptica y puede tener también ser punto de acceso Wifi como el router doméstico de la figura
 
@@ -25,17 +25,17 @@ El principal sospechoso sería el router, hay que comprobar si están encendidos
 
 * si alguno está en **rojo** ya nos informa donde está el problema, por ejemplo si el led ADSL/Internet  está en rojo, el problema está en nuestro proveedor (Movistar, Vodafone ... ). Podemos resetear el router a ver si vuelve la conexión.
 * Si están encendidos todos en **verde**, podemos conectar por ejemplo un portátil en uno de las conexiones Eth y comprobar si hay Internet.
- 
+
 ![Movistar manual usuario](/assets/2019-12-23 09_30_42-Adobe Flash Player 11.png)
- 
+
 * Si no hay Internet, el problema no es el router sino el siguiente elemento de abajo de la cascada de nuestra red: El switch o el cableado entre el switch y el router.
 * Si hay Internet, el fallo es el router. Podemos resetear el router a ver si vuelve la conexión.
-   
+
 En el caso de que haciendo estas simples comprobaciones sigue sin funcionar, [llamamos al servicio CAU](/problemas-que-hago.md).
-   
+
 ### El router es un mini-ordenador
 
-Con un sistema operativo llamado **firmware** (software almacenado en los chips de un dispositivo) funcionando y accesible mediante una aplicación web. 
+Con un sistema operativo llamado **firmware** (software almacenado en los chips de un dispositivo) funcionando y accesible mediante una aplicación web.
 
 >**danger**
 >**OJO : El acceso a la aplicación del router de tu centro educativo SOLO ES ACCESIBLE POR EL SERVICIO CAU**. No obstante, consideramos importante que, como COFOTAC, conozcas la existencia de la configuración del router por la importancia que tiene en la LAN de tu centro y por los conceptos implícitos en la configuración de tu red.
@@ -83,3 +83,7 @@ Y seleccionar el fichero, teniendo en cuenta que mientras estamos actualizando e
 En esta aplicación web también se pueden **abrir puertos** PERO ESTO ES UNA PUERTA ABIERTA AL EXTERIOR con el consecuente peligro de seguridad. En la figura se puede ver que se ha abierto al equipo con la IP 192.168.1.33 diferentes puertos seguramente para descargas punto a punto P2P tipo Torrent, eMule y similares.
 
 ![Movistar manual usuario](/assets/2019-12-23 10_26_23-Adobe Flash Player 11.png)
+
+## PARA SABER MÁS
+
+Te recomendamos el artículo ++[Tu router, tu castillo. Medidas básicas para su protección de OSI](https://www.osi.es/es/actualidad/blog/2016/11/03/tu-router-tu-castillo-medidas-basicas-para-su-proteccion)

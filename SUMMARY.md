@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Hardware](hardware.md)
 * [Software](software.md)
+* [Formatear](formatear.md)
 * [Redes](redes.md)
   * [Estructura de una red](redes/estructura-de-una-red.md)
   * [Cableado](redes/cableado.md)
@@ -14,8 +15,8 @@
   * [A experimentar](redes/a-experimentar.md)
 * [Problemas ¿Qué hago?](problemas-que-hago.md)
 * [No estas sólo](no-estas-solo.md)
-* [Memes](memes.md)
 
 ---
 
+* [Memes](memes.md)
 * [Créditos](creditos.md)

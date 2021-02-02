@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Hardware](hardware.md)
 * [Software](software.md)
+* [Almacenamiento](almacenamiento.md)
 * [Formatear](formatear.md)
 * [Redes](redes.md)
   * [Estructura de una red](redes/estructura-de-una-red.md)

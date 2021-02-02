@@ -24,7 +24,7 @@ Antes de formatear, tenemos que saber que se van a borrar todos los documentos q
 
 No hay otra opción que arrancar el ordenador con una memoria USB con un sistema operativo **LIVE** es decir que se puede ejecutar desde la memoria sin necesidad de formatear el ordenador, recomendamos [Linux Mint Mate ](https://linuxmint.com/download.php) y con ese SO recuperar los archivos locales del ordenador.
 
-**OJO en el caso de una infección, los documentos que recuperemos PUEDEN ESTAR INFECTADOS, piensalo sin son imprescindibles** habría que llevarlos a una memoria USB y pasarle un scaner de un antivirus.
+**OJO en el caso de una infección, los documentos que recuperemos PUEDEN ESTAR INFECTADOS, piénsalo sin son imprescindibles** habría que llevarlos a una memoria USB y pasarle un scaner de un antivirus.
 
 Una vez recuperado todos los archivos, ya podemos llamar al servicio CAU para que proceda a _"machacar"_ todo lo que quiera.
 

@@ -10,20 +10,25 @@ Para poder participar, regístrate en Edmodo y ponte [en contacto con CATEDU](ht
 
 ## ¿Qué lio de nombres?
 
-Los "chispas" de los centros educativos hemos pasado por diferentes nombres (los años son aproximados):
+Los "chispas" de los centros educativos hemos pasado por diferentes nombres en Aragón (los años son aproximados):
 
 * 1992 **Coordinadores aula Atenea y Mercurio** responable de las aulas donde estaban los PCs IBM y la sala de medios audivisuales (reproductores cinta VHS, tocadiscos...).
 * 2000 **Coordinador TIC** TIC = Tecnologías de Informática y Comunicación
-* 2002 **Coordinador Ramón y Cajal** con un perfil muy técnico, Apollados en los CPRs con el programa PIZARRA DIGITAL con las siguientes figuras:
-  * **Asesor TIC** asesor del CPR.
-  * **Técnico informático** con una relación laboral de beca con el Departamento, perfil sólo técnico.
-  * **Colaborador TIC** un docente con atribución de funciones en el CPR para apoyar dentro del aula en el manejo de las TIC.
-* 2012 **Coordinador TAC** TAC = Tecnología del Aprendizaje y Comunicación
+* 2002 **Coordinador Ramón y Cajal** con un perfil técnico. Apoyados en los CPRs con el programa PIZARRA DIGITAL (Tablets PC y PDIs) con las siguientes figuras de apoyo en el CPR:
+  * *Asesor TIC* asesor del CPR.
+  * *Técnico informático* con una relación laboral de beca con el Departamento, perfil sólo técnico.
+  * *Colaborador TIC* un docente con atribución de funciones en el CPR para apoyar dentro del aula en el manejo de las TIC.
+* 2012 **Coordinador TAC** TAC = Tecnología del Aprendizaje y del Conocimiento
 * 2013 **Coordinadores MIA** MIA = Medios Informáticos y Audivisuales
-* 2014 **Coordinadores COFOTAC** que se sigue utiliznado en el resto de CCAA.
-* 2015 **Coordinador COFOTAP** TAP Tecnologías del aprendizaje y del aponderamiento.
+* 2014 **Coordinadores COFOTAC** Nombre que se sigue utilizando en muchas CCAA. Tiene un perfil más de responsable de la formación y del uso de las nuevas tecnologías en la educación del centro escolar que técnico. (¿oigo risas?)
+* 2015 **Coordinador COFOTAP** TAP Tecnologías del aprendizaje y de la participación.
+* En otros _lares_:
+  * **Coordinador TEP**: Tecnologías para el Empoderamiento y la Participación.
+  * **Coordinador TIP** Tecnologías Investigación y Publicación
+  * **Coordinador ANNT** Tecnologías Redes Neuronales Artificiales.
+  * **IT manager** en países anglosajones.
 
-En fin ... nos pueden pintar de muchos colores ...
+En fin, nos pueden pintar de muchos colores ... pero el curro es el curro.
 
 ![](/assets/mess.jpg)
 

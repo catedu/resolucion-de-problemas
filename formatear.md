@@ -2,7 +2,7 @@
 
 ## ¿ Qué es formatear?
 
-Consiste en **limpiar** el ordenador, dejarlo como nuevo, **resetearlo** es decir, instalar un SO (sistema operativo) en el ordenador de forma que **borrando** todo el contenido que había en el disco duro, o sea, como una instalación de fábrica totalmente nueva.
+Consiste en **limpiar** el ordenador, dejarlo como nuevo, **resetearlo** es decir, instalar un SO (sistema operativo) en el ordenador **borrando** todo el contenido que había en el disco duro, o sea, como una instalación de fábrica totalmente nueva.
 
 ## ¿ Por qué formatear?
 
@@ -28,7 +28,7 @@ No hay otra opción que arrancar el ordenador con una memoria USB con un sistema
 
 Una vez recuperado todos los archivos, ya podemos llamar al servicio CAU para que proceda a _"machacar"_ todo lo que quiera.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvr4JxqRNkTwI0mcFJdfbIe5BtDpSGyLO4ucyAyk65f3zXsFa3zxIyFZiPcqRuv_2YEfrGY39SFVi0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvr4JxqRNkTwI0mcFJdfbIe5BtDpSGyLO4ucyAyk65f3zXsFa3zxIyFZiPcqRuv_2YEfrGY39SFVi0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1020" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## OJO CON FORMATEARLO TÚ
 

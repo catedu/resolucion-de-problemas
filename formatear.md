@@ -37,7 +37,7 @@ En el caso de que lo quieras hacer tú de forma particular, ten en cuenta que pu
 * Antes de formatear, hay que asegurarse todo el hardware asociado al ordenador FUNCIONA al meter el nuevo SO.
   * No vale con pensar que si instalamos el mismo SO reconocerá de nuevo todo hardware, pues puede ser que haya hardware que necesite **DRIVERS o CONTROLADORES** no incluidos por defecto en el SO
   * Hay programas que extraen los programas controladores que tienes instalados en tu ordenador para luego poder volcarlos cuando instalas el nuevo SO.
-* Pierdes todo el software instalado, tienes que tener tanto los instaladores como los códigos de licencia si proceden para volver a instalar todo de nuevo.
+* Pierdes todo el software instalado, tienes que tener tanto los instaladores como los códigos de licencia si procede, para volver a instalar todo de nuevo.
 
 El formateo se realiza arrancando el equipo con la memoria USB con el SO descargado, tal y como has visto en las diapositivas.
 

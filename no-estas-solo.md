@@ -10,7 +10,7 @@ Para poder participar, regístrate en Edmodo y ponte [en contacto con CATEDU](ht
 
 ## ¿Qué lio de nombres?
 
-Los "chispas" de los centros educativos hemos pasado por diferentes nombres en Aragón (los años son aproximados):
+Los "chispas" (toda referencia de género masculino se refiere a ambos sexos) de los centros educativos hemos pasado por diferentes nombres en Aragón (los años son aproximados):
 
 * 1992 **Coordinadores aula Atenea y Mercurio** responable de las aulas donde estaban los PCs IBM y la sala de medios audivisuales (reproductores cinta VHS, tocadiscos...).
 * 2000 **Coordinador TIC** TIC = Tecnologías de Informática y Comunicación

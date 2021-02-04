@@ -21,7 +21,8 @@ Los "chispas" (toda referencia de género masculino se refiere a ambos sexos) de
 * 2012 **Coordinador TAC** TAC = Tecnología del Aprendizaje y del Conocimiento
 * 2013 **Coordinadores MIA** MIA = Medios Informáticos y Audivisuales
 * 2014 **Coordinadores COFOTAC** Nombre que se sigue utilizando en muchas CCAA. Tiene un perfil más de responsable de la formación y del uso de las nuevas tecnologías en la educación del centro escolar que técnico. (¿oigo risas?)
-* 2015 **Coordinador COFOTAP** TAP Tecnologías del aprendizaje y de la participación.
+* 2015 **Coordinador COFOTAP** TAP Tecnologías del aprendizaje y de la participación pero según la [orden de itinerarios 22/20](https://educa.aragon.es/documents/20126/0/BOA+Itinerarios+2020-21+%281%29.pdf/bbbe3e5d-9a1e-f686-7bfd-6dae321e8442?t=1610358478013) el nombre de COFOTAP es **coordinadoras de formación para el uso de las tecnologías en los aprendizajes**.
+
 * En otros _lares_:
   * **Coordinador TEP**: Tecnologías para el Empoderamiento y la Participación.
   * **Coordinador TIP** Tecnologías Investigación y Publicación

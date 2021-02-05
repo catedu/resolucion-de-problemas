@@ -11,9 +11,7 @@ En https://soporte.vitalinux.educa.aragon.es/ tenemos un apartado para incidenci
 ![](/assets/vitalinux.jpg)
 
 ## Edmodo de coordinadores MIA
-A nivel virtual existen dos grupos de **Edmodo** de coordinadores de Medios Informáticos y Audiovisuales donde poder expresar tus dudas, preocupaciones o  avisos.
-
-Para poder participar, regístrate en Edmodo y ponte [en contacto con CATEDU](https://web.catedu.es/) pidiendo participar en el grupo de Edmodo Primaria o Secundaria indicando tu correo electrónico que has utilizado para registrarte en Edmodo.
+A nivel virtual existen dos grupos de **Edmodo** (no estan tan vivos como los foros anteriores) de coordinadores de Medios Informáticos y Audiovisuales donde poder expresar tus dudas, preocupaciones o  avisos. Para poder participar, regístrate en Edmodo y ponte [en contacto con CATEDU](https://web.catedu.es/) pidiendo participar en el grupo de Edmodo Primaria o Secundaria indicando tu correo electrónico que has utilizado para registrarte en Edmodo.
 
 ![](/assets/2020-02-02 13_21_00-Clipboard.png)
 

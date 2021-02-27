@@ -90,7 +90,7 @@ Luego ojo con este símbolo:
 
 ![](/assets/2019-12-25 10_18_13-Window.png)
 
-![](/assets/enchufe(2).png)
+![](/assets/enchufe.png)
 
 ##Fibra óptica
 

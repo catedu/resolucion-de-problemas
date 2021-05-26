@@ -78,7 +78,7 @@ Y seleccionar el fichero, teniendo en cuenta que mientras estamos actualizando e
 ![Movistar manual usuario](/assets/2019-12-23 10_19_30-Adobe Flash Player 11.png)
 
 >**info**
->Hoy en día los Routers modernos se actualiza en remoto, pero no dejan de ser unos ordenadores, luego **es bueno reiniciarlos de vez en cuando**.
+>Hoy en día los Routers modernos se actualizan en remoto, pero no dejan de ser unos ordenadores, luego **es bueno reiniciarlos de vez en cuando**.
 
 En esta aplicación web también se pueden **abrir puertos** PERO ESTO ES UNA PUERTA ABIERTA AL EXTERIOR con el consecuente peligro de seguridad. En la figura se puede ver que se ha abierto al equipo con la IP 192.168.1.33 diferentes puertos seguramente para descargas punto a punto P2P tipo Torrent, eMule y similares.
 

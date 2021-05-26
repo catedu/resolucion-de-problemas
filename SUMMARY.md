@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Funciones](funciones.md)
 * [Hardware](hardware.md)
 * [Software](software.md)
 * [Almacenamiento](almacenamiento.md)

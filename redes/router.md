@@ -28,8 +28,8 @@ El principal sospechoso sería el router, hay que comprobar si están encendidos
 
 ![Movistar manual usuario](/assets/2019-12-23 09_30_42-Adobe Flash Player 11.png)
 
-* Si no hay Internet, el problema no es el router sino el siguiente elemento de abajo de la cascada de nuestra red: El switch o el cableado entre el switch y el router.
-* Si hay Internet, el fallo es el router. Podemos resetear el router a ver si vuelve la conexión.
+* SI hay Internet: el problema no es el router sino el siguiente elemento de arriba de la cascada de nuestra red: El switch o el cableado entre el switch y el router.
+* NO hay Internet: el fallo es el router. Podemos resetear el router a ver si vuelve la conexión.
 
 En el caso de que haciendo estas simples comprobaciones sigue sin funcionar, [llamamos al servicio CAU](/problemas-que-hago.md).
 

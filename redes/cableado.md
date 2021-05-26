@@ -17,7 +17,7 @@ La respuesta es que seguramente NO ES NECESARIO pues de nada sirve cambiar a una
 
 >Recuerdo un centro, de cuyo nombre no me quiero acordar, que realizó un importante esfuerzo económico de cambiar todo el cableado y la velocidad seguía siendo pésima. Al final era porque tenían una [Botnet ver diapositiva 8](https://catedu.github.io/ciudadania-digital/seguridad/peligros.html).
 
-Para estas cuestiones es mejor contar con el asesoramiento del servicio de informática del [Departamento](/problemas-que-hago.md).
+Para estas cuestiones es mejor contar con el asesoramiento del servicio de informática del [Departamento](https://catedu.github.io/resolucion-de-problemas/problemas-que-hago.html).
 
 No se tienen que hacer cableados muy largos pues la señal se atenúa, cuanto más largo más probabilidad hay que algunos paquetes de información sean erróneos y por lo tanto ralentiza la conexión. El máximo es 100m.
 

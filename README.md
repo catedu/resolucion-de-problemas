@@ -7,7 +7,7 @@
 
 <object data="/assets/funciones.pdf" type="application/pdf" width="100%" height="100%">
     <embed src="assets/funciones.pdf">
-        <p>Agradecimientos [CP Sabiñánigo](https://formacionsabi.es/). Si no lo ves correctamente <a href="https://catedu.github.io/resolucion-de-problemas/assets/funciones.pdf">clica aquí</a>.</p>
+        <p>Agradecimientos <a href="https://formacionsabi.es/>CP Sabiñánigo</a>. Si no lo ves correctamente <a href="https://catedu.github.io/resolucion-de-problemas/assets/funciones.pdf">clica aquí</a>.</p>
     </embed>
 </object>
 

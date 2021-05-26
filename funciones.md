@@ -1,7 +1,7 @@
 # Funciones de un COFOTAP
 
-<object data="/assets/funciones.pdf" type="application/pdf" width="100%" height="100%">
+<object data="/assets/funciones.pdf" type="application/pdf" width="600px" height="800px">
     <embed src="assets/funciones.pdf">
-        <p>TSi no lo ves correctamente, descargalo aquí : <a href="/assets/funciones.pdf">Download PDF</a>.</p>
+        <p>Si no lo ves correctamente, descargalo aquí : <a href="/assets/funciones.pdf">Download PDF</a>.</p>
     </embed>
 </object>

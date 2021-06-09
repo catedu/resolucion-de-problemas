@@ -6,7 +6,7 @@ Tienes que saber que en tu Centro de Profesores más próximo **hay un seminario
 
 ## Foro Vitalinux
 
-En https://soporte.vitalinux.educa.aragon.es/ tenemos un apartado para incidencias de nuestro equipos con Vitalinux pero hay un [**FORO GENERAL**](https://soporte.vitalinux.educa.aragon.es/projects/vitallinux-dga-soporte/boards) donde se tratan cuestiones que abren los COFOTAP que no tiene que ver con Vitalinux, tú mismo puedes registrarte arriba a la derecha:
+En https://soporte.vitalinux.educa.aragon.es/ tenemos un apartado para incidencias de nuestro equipos con Vitalinux pero realmente es un [**FORO GENERAL de los COFOTAP**](https://soporte.vitalinux.educa.aragon.es/projects/vitallinux-dga-soporte/boards), se tratan problemas de Vitalinux, de Windows, de hardware... tú mismo puedes registrarte arriba a la derecha:
 
 ![](/assets/vitalinux.jpg)
 

@@ -44,7 +44,7 @@ Por ejemplo se puede ver que mi IP es 4.6.1.30, que la puerta de enlace es 4.6.1
 >**info**
 >Verás unos números largos que en la figura los he ocultado por seguridad, son **las direcciones MAC** de la tarjeta de red y del router. Son direcciones físicas que vienen de fábrica y son únicas y no se pueden cambiar.
 
->![](/assets/Sintítulo1.jpg)
+>![](/assets/meme-ip.jpg)
 
 Si por ejemplo el ordenador está conectado a Internet desde dos sitios, sale toda la información:
 
@@ -68,7 +68,7 @@ Haz ping a google por ejemplo **ping 8.8.8.8**.
 
 Muy fácil, si con IPs navegas pero con URLs no, es que **tienes mal las DNS** haz ipconfig/all y comprueba que tienes las DNS del Gobierno de Aragón 188.244.82.1 y 188.244.82.17, teclea nslookup a ver si te salen bien las DNS.
 
-## Tengo ping google.es pero no navego 
+## Tengo ping google.es pero no navego
 En ese caso tu ordenador está bien conectado y bien configurado pero algo en el software impide la navegación ¿virus? ¿formateo? espera! consulta [el protocolo](/problemas-que-hago.md).
 
 ## ¿Cómo puedo saber si dos dispositivos están conectados?
@@ -86,10 +86,3 @@ Hay programas como [Wireless Network Watcher](https://www.nirsoft.net/utils/wire
 ![](/assets/2020-03-24 10_44_58.jpg)
 
 *fuente: elaboración propia*
-
-
-
-
-
-
-

@@ -68,8 +68,12 @@ Haz ping a google por ejemplo **ping 8.8.8.8**.
 
 Muy fácil, si con IPs navegas pero con URLs no, es que **tienes mal las DNS** haz ipconfig/all y comprueba que tienes las DNS del Gobierno de Aragón 188.244.82.1 y 188.244.82.17, teclea nslookup a ver si te salen bien las DNS.
 
+Luego comprueba que las DNS del Gobierno de Aragón funcionan (puede ser que hayan caído), luego haz ping a esas direcciones, en la imagen puedes ver que funcionan :
+
+![](/assets/pingdnsaragon.png)
+
 ## Tengo ping google.es pero no navego
-En ese caso tu ordenador está bien conectado y bien configurado pero algo en el software impide la navegación ¿virus? ¿formateo? espera! consulta [el protocolo](/problemas-que-hago.md).
+En ese caso tu ordenador está bien conectado y bien configurado pero algo en el software impide la navegación ¿virus? ¿lo formateo? ¡¡¡ espera  !!! consulta [el protocolo](/problemas-que-hago.md).
 
 ## ¿Cómo puedo saber si dos dispositivos están conectados?
 

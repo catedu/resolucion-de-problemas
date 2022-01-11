@@ -42,7 +42,7 @@ Por ejemplo se puede ver que mi IP es 4.6.1.30, que la puerta de enlace es 4.6.1
 ![](/assets/2020-01-14 20_25_04.jpg)
 
 >**info**
->Verás unos números largos que en la figura los he ocultado por seguridad, son **las direcciones MAC** de la tarjeta de red y del router. Son direcciones físicas que vienen de fábrica y son únicas y no se pueden cambiar.
+>Verás unos números largos que en la figura los he ocultado por seguridad, son **las direcciones físicas MAC** de la tarjeta de red y del router. Son direcciones físicas que vienen de fábrica y son únicas y no se pueden cambiar. Ahora puedes entender ciertos chistes informáticos 🤣.
 
 >![](/assets/meme-ip.jpg)
 

@@ -48,7 +48,7 @@ Metes los dos extremos (uno *master* que envía la señal y otro *slave* que rec
 
 >Si quieres hacer tú mismo el cables hay muchos vídeos, cómprate una **crimpadora** y es seguir [un criterio de colores](https://www.xatakamovil.com/conectividad/cables-de-red-guia-para-montar-nuestro-propio-cable).  
 
-{% youtube %}https://www.youtube.com/watch?v=uvgx4Vio0WE{% endyoutube %}
+<iframe src="//www.youtube.com/embed/uvgx4Vio0WE" width="560" height="314" allowfullscreen="allowfullscreen"></iframe>
 
 >PREGUNTA: ¿Se puede comprobar un cable con el tester teniendo un extremo en el tester y el otro extremo conectado a una *"cosa"* (router, switcht, AP, PC...) ?
 
